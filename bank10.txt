@@ -1,12 +1,12 @@
-001|   TEST LUBARTOW        |http://jeansoft.zapto.org/download/test/lubartow.mp3
-002|   LUBARTOW             |http://jeansoft.zapto.org/download/test/lubartow_2.flac
-003|   TEST ZRK             |http://jeansoft.zapto.org/download/test/zrk.mp3
-004|Demo Adam Smialek FLAC|http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.flac
-005|Demo Adam Smialek MP3 |http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.mp3
-006|Radioparadise           |http://stream.radioparadise.com/flac
-007|World Eclectic Mix      |http://stream.radioparadise.com/eclectic-flac
-008|Rock Mix                |http://stream.radioparadise.com/rock-flac
-009|Mellow Mix              |http://stream.radioparadise.com/mellow-flac
-010|AACPLUS|http://online.rockarsenal.ru:8000/rockarsenal_aacplus
-011|Testton_1.0.mp3|http://jeansoft.zapto.org/download/test/Testton_1.0.mp3
-013|Radio Dzwiek|http://stream320.radiodzwiek.pl/
+001|Radio Dzwiek|http://stream320.radiodzwiek.pl/
+002|Radioparadise           |http://stream.radioparadise.com/flac
+003|World Eclectic Mix      |http://stream.radioparadise.com/eclectic-flac
+004|Rock Mix                |http://stream.radioparadise.com/rock-flac
+005|Mellow Mix              |http://stream.radioparadise.com/mellow-flac
+006|   TEST LUBARTOW        |http://jeansoft.zapto.org/download/test/lubartow.mp3
+007|   LUBARTOW             |http://jeansoft.zapto.org/download/test/lubartow_2.flac
+008|   TEST ZRK             |http://jeansoft.zapto.org/download/test/zrk.mp3
+009|Demo Adam Smialek FLAC|http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.flac
+010|Demo Adam Smialek MP3 |http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.mp3
+011|AACPLUS|http://online.rockarsenal.ru:8000/rockarsenal_aacplus
+012|Testton_1.0.mp3|http://jeansoft.zapto.org/download/test/Testton_1.0.mp3
