@@ -58,7 +58,7 @@
 058|Mbox - Rock|http://panel.radiombox.pl/radio/8090/Rock320kbps
 059|Radio Music Max|91.232.4.33:7040/Stream1
 060|Radio divertimento|http://s7.radiohost.pl:11518/stream
-061|Muzyczne Radio|http://stream3.nadaje.com:9000
+061|Muzyczne Radio|https://stream.rcs.revma.com/gzwc1xcq042vv
 062|Muzyczne Radio Best of|http://stream3.nadaje.com:8600
 063|Muzyczne Radio HitPlaneta|http://stream3.nadaje.com:8592
 064|Radio Party|http://s4.radioparty.pl:8000/rp.mp3
