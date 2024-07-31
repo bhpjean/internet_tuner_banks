@@ -190,4 +190,3 @@
 88|181.FM Christmas Smooth Jazz|http://listen.livestreamingservice.com/181-xsmooth_128k.mp3
 89|181.FM Christmas Gospel|http://listen.livestreamingservice.com/181-xgospel_128k.mp3
 90|181.FM Christmas Swing|http://listen.livestreamingservice.com/181-xswing_128k.mp3
-93|Radiofonia|http://195.150.20.7/radiofonia
