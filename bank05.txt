@@ -38,7 +38,7 @@
 038|InterStacja Eurodance|http://4stream.pl:18180
 039|InterStacja Najnowsze Hity|http://4stream.pl:18410
 040|InterStacja Oldies|http://4stream.pl:18290
-041|Muzyczne Radio TOP20 Hip-hop|https://stream2.nadaje.com:8017
+041|Muzyczne Radio|https://stream1.dabcom.pl/mr_flac
 042|Radio Nedds24.pl|http://s1.nedds24.pl:8100/radio.mp3
 043|Radio Nedds24 Club|http://s1.nedds24.pl:8110/radio.mp3
 044|Radio Nedds24 Disco|http://s1.nedds24.pl:8120/radio.mp3
