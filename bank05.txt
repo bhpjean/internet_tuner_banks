@@ -88,7 +88,7 @@
 088|Caprice-Classic Rock|http://79.120.77.11:8000/rock.m3u
 089|RDMIX CLASSIC ROCK  |https://giorgia.radiobellissima.it:8210/radio.mp3
 090|Zeppelin|https://radiostreaming.ert.gr/ert-zeppelin
-091|Mega Rock|https://stream1.megarockradio.net:80
+091|Radio Motown|http://54.36.165.156:8630/stream
 092|Mega Radio|https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
 093|VOX FM |http://ic1.smcdn.pl/3990-1.mp3
 094|VOX FM HIT 22|http://ic1.smcdn.pl/6020-1.mp3
@@ -121,4 +121,3 @@
 121|The Disco Palace|http://54.36.165.156:8410/stream
 122|The Disco Paradise|http://54.36.165.156:8420/stream
 123|The Disco Planet|http://54.36.165.156:8430/stream
-124|Radio Motown|http://54.36.165.156:8630/stream
