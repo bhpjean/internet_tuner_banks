@@ -121,3 +121,4 @@
 121|The Disco Palace|http://54.36.165.156:8410/stream
 122|The Disco Paradise|http://54.36.165.156:8420/stream
 123|The Disco Planet|http://54.36.165.156:8430/stream
+124|Radio Profeto|https://stream.profeto.pl/streamnc.mp3
