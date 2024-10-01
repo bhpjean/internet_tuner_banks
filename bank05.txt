@@ -77,7 +77,7 @@
 077|Classic Vinyl|https://icecast.walmradio.com:8443/classic
 078|Smooth Jazz|https://bcast.vigormultimedia.com:48888/sjcompl320mp3
 079|Blues Wave|https://blueswave.radio:8100/hifiblues
-080|Radio i|http://185.127.121.97:8005/;stream/1
+080|FUN Radio|https://icecast.funradio.fr/fun-1-44-128
 081|Radio Dzwiek|http://s3.slotex.pl:7408/;
 082|Minimal Mix Radio|http://orion.shoutca.st:8750
 083|Ask Fm Club|http://club.streamcast.online:7755/stream
