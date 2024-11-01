@@ -14,11 +14,6 @@
 022|Polski.FM - swięta z Polski.FM|http://198.27.127.246:5717
 023|Polski.FM - Top 100 Polski|http://198.27.127.246:5970
 024|Polski.FM - Zabawa|http://198.27.127.246:5751
-025|Rock Radio|https://pl-play.adtonos.com/8101/rock-radio
-026|Rock Radio - Krakow|https://pl-play.adtonos.com/8101/rock-radio-krakw
-027|Rock Radio - Opole|http://stream10.radioagora.pl/rr_opo_128.mp3
-028|Rock Radio - Poznań|https://pl-play.adtonos.com/8101/rock-radio-pozna
-029|Rock Radio - Warszawa|https://pl-play.adtonos.com/8101/rock-radio-warszawa
 030|Toksyna FM|http://s01.toksyna.fm:8000
 031|Toksyna FM - Chillout & More|http://s01.toksyna.fm:8050
 032|Toksyna FM - Classic|http://s01.toksyna.fm:8060
@@ -27,7 +22,6 @@
 035|Toksyna FM - New Romantic|http://s01.toksyna.fm:8020
 036|Toksyna FM - PsyTrance|http://s01.toksyna.fm:8030
 037|Toksyna FM - Punk Rock|http://s01.toksyna.fm:8070
-038|Radio Zlote Przeboje|https://pl2-play.adtonos.com/zote-przeboje
 039|Radio Zlote Przeboje|https://radiostream.pl/tuba8902-1.mp3
 063|Radio Bialystok|http://stream4.nadaje.com:15476/radiobialystok
 064|Radio Bielsko|https://stream.rcs.revma.com/062uq3z3kwzuv
