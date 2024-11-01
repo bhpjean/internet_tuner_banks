@@ -1,40 +1,32 @@
 ﻿001|Radio Pogoda|http://stream10.radioagora.pl:80/tuba38-1.mp3
-002|Radio Pogoda - Bydgoszcz|https://pl-play.adtonos.com/8102/radio-pogoda-bydgoszcz
-003|Radio Pogoda - Gdańsk|https://pl-play.adtonos.com/8102/radio-pogoda-gdansk
-004|Radio Pogoda - Katowice|https://pl-play.adtonos.com/8102/radio-pogoda-katowice
-005|Radio Pogoda - Krakow|https://pl-play.adtonos.com/8102/radio-pogoda-krakw
-006|Radio Pogoda - Opole|https://pl-play.adtonos.com/8102/radio-pogoda-opole
-007|Radio Pogoda - Poznań|https://pl-play.adtonos.com/8102/radio-pogoda-pozna
-008|Radio Pogoda - Warszawa|https://pl-play.adtonos.com/8102/radio-pogoda
-009|Radio Pogoda - Wroclaw|https://pl-play.adtonos.com/8102/radio-pogoda-wrocaw
-010|Radio Polski.FM Chicago - Live|http://198.27.127.246/proxy/live?mp=/1
-011|Radio Polski.FM Chicago - Live 2|https://stream.rcs.revma.com/43sksm6hrc9uv
-012|Radio Polski.FM Chicago - Charlie LuV Mix Show|http://198.27.127.246:5120
-013|Radio Polski.FM Chicago - Jedziemy...|http://198.27.127.246:5663
-014|Radio Polski.FM Chicago - Kraina lagodnosci|http://198.27.127.246:6082
-015|Radio Polski.FM Chicago - Muzyczne Klimaty Termanowskiego|http://198.27.127.246:5441
-016|Radio Polski.FM Chicago - Muzyka Ktorą Kochacie '80|http://198.27.127.246:5473
-017|Radio Polski.FM Chicago - Muzyka Ktorą Pamiętacie '90|http://198.27.127.246:5424
-018|Radio Polski.FM Chicago - Muzyka Z Oklaskami|http://198.27.127.246:5479
-019|Radio Polski.FM Chicago - Muzyka Do Tupania|http://198.27.127.246:5096
-020|Radio Polski.FM Chicago - Po Polsku 100%|http://198.27.127.246:5491
-021|Radio Polski.FM Chicago - Polo FM|http://198.27.127.246:5705
-022|Radio Polski.FM Chicago - swięta z Polski.FM|http://198.27.127.246:5717
-023|Radio Polski.FM Chicago - Top 100 Polski|http://198.27.127.246:5970
-024|Radio Polski.FM Chicago - Zabawa|http://198.27.127.246:5751
+010|Polski.FM - Live|http://198.27.127.246/proxy/live?mp=/1
+011|Polski.FM - Live 2|https://stream.rcs.revma.com/43sksm6hrc9uv
+012|Polski.FM - Charlie LuV Mix Show|http://198.27.127.246:5120
+013|Polski.FM - Jedziemy...|http://198.27.127.246:5663
+014|Polski.FM - Kraina lagodnosci|http://198.27.127.246:6082
+015|Polski.FM - Muzyczne Klimaty Termanowskiego|http://198.27.127.246:5441
+016|Polski.FM - Muzyka Ktorą Kochacie '80|http://198.27.127.246:5473
+017|Polski.FM - Muzyka Ktorą Pamiętacie '90|http://198.27.127.246:5424
+018|Polski.FM - Muzyka Z Oklaskami|http://198.27.127.246:5479
+019|Polski.FM - Muzyka Do Tupania|http://198.27.127.246:5096
+020|Polski.FM - Po Polsku 100%|http://198.27.127.246:5491
+021|Polski.FM - Polo FM|http://198.27.127.246:5705
+022|Polski.FM - swięta z Polski.FM|http://198.27.127.246:5717
+023|Polski.FM - Top 100 Polski|http://198.27.127.246:5970
+024|Polski.FM - Zabawa|http://198.27.127.246:5751
 025|Rock Radio|https://pl-play.adtonos.com/8101/rock-radio
 026|Rock Radio - Krakow|https://pl-play.adtonos.com/8101/rock-radio-krakw
 027|Rock Radio - Opole|http://stream10.radioagora.pl/rr_opo_128.mp3
 028|Rock Radio - Poznań|https://pl-play.adtonos.com/8101/rock-radio-pozna
 029|Rock Radio - Warszawa|https://pl-play.adtonos.com/8101/rock-radio-warszawa
-030|Radio Toksyna FM|http://s01.toksyna.fm:8000
-031|Radio Toksyna FM - Chillout & More|http://s01.toksyna.fm:8050
-032|Radio Toksyna FM - Classic|http://s01.toksyna.fm:8060
-033|Radio Toksyna FM - DJ Channel|http://s01.toksyna.fm:8040
-034|Radio Toksyna FM - Elektronika|http://s01.toksyna.fm:8010
-035|Radio Toksyna FM - New Romantic|http://s01.toksyna.fm:8020
-036|Radio Toksyna FM - PsyTrance|http://s01.toksyna.fm:8030
-037|Radio Toksyna FM - Punk Rock|http://s01.toksyna.fm:8070
+030|Toksyna FM|http://s01.toksyna.fm:8000
+031|Toksyna FM - Chillout & More|http://s01.toksyna.fm:8050
+032|Toksyna FM - Classic|http://s01.toksyna.fm:8060
+033|Toksyna FM - DJ Channel|http://s01.toksyna.fm:8040
+034|Toksyna FM - Elektronika|http://s01.toksyna.fm:8010
+035|Toksyna FM - New Romantic|http://s01.toksyna.fm:8020
+036|Toksyna FM - PsyTrance|http://s01.toksyna.fm:8030
+037|Toksyna FM - Punk Rock|http://s01.toksyna.fm:8070
 038|Radio Zlote Przeboje|https://pl2-play.adtonos.com/zote-przeboje
 039|Radio Zlote Przeboje|https://radiostream.pl/tuba8902-1.mp3
 063|Radio Bialystok|http://stream4.nadaje.com:15476/radiobialystok
