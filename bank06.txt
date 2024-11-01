@@ -35,12 +35,9 @@
 072|Radio Gdańsk - Slupsk|http://stream.task.gda.pl:8000/rg3
 073|Radio Gorzow|http://stream02.radiogorzow.pl:10115
 074|Radio Katowice|https://stream4.nadaje.com:9213/radiokatowice
-075|Radio Katowice - Jazz|https://stream4.nadaje.com:8497/katowice_d
 076|Radio Katowice - Moje Radio|https://stream4.nadaje.com:8497/katowice_c
 077|Radio Katowice - sląsk|https://stream4.nadaje.com:8497/katowice_b
 078|Radio Katowice - Top50|https://stream4.nadaje.com:8497/katowice_a
-079|Radio Kielce|http://gra.radio.kielce.pl:8000/rk1
-080|Radio Kielce Folk|http://gra.radio.kielce.pl:8000/frmp3
 081|Radio Koszalin|http://91.232.4.33:9680/stream
 082|Radio Krakow|http://stream3.nadaje.com:9116/radiokrakow
 083|Radio Krakow - Nowy Sącz|http://stream3.nadaje.com:9120/radiokrakow
@@ -54,8 +51,6 @@
 091|Radio MC|http://stream4.nadaje.com:8624/mcradio
 092|Radio Opole|http://193.47.151.4:9000/ro1mp3
 093|Radio Opole 2 Kultura|http://193.47.151.4:9000/ro2mp3
-094|Radio Opole 3 Sport|http://193.47.151.4:9000/ro3mp3
-095|Radio Opole 4 Historia|http://193.47.151.4:9000/ro4mp3
 096|Radio Olsztyn|http://213.73.25.178:7055
 097|Radio PiK|http://stream1.radiopik.pl:9004
 098|Radio Poznań|http://stream4.nadaje.com:8578/poznan
@@ -67,90 +62,66 @@
 104|Radio Wroclaw|http://stream4.nadaje.com:9240/prw
 105|Radio Wroclaw Kultura|http://stream4.nadaje.com:9230/rwkultura
 106|Radio Zachod|http://stream02.zachod.pl:10113
-107|Radio Zielona Gora|http://stream02.rzg.pl:10117
-108|Radio 4You FM |https://s3.slotex.pl/shoutcast/7078/stream
-109|Radio 90 FM |http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
+108|Radio 4 You|https://s3.slotex.pl/shoutcast/7078/stream
+109|Radio 90 |http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
 110|Radio Arkadia |http://s1.slotex.pl:7238
 111|Radio BaHaRy |http://s1.slotex.pl:7838
 112|Radio Bercik Silesia |http://s3.slotex.pl:7770
 113|Radio Cyganeczka |http://s1.slotex.pl:7474
 114|Radio Express FM |https://stream.rcs.revma.com/yx6cub73kwzuv
-115|Radio Fest |http://primary.moodyradiostream.org/radiofest
-116|Radio Fruzia |http://s1.admin-marcin.pl:8020
-117|Radio Hajer |http://s3.slotex.pl:7648
 118|Radio Hit Mix |http://s1.slotex.pl:7294
 119|Radio Karolinka |http://91.232.4.33:8358/stream
-120|Radio Katowice |http://stream4.nadaje.com:9212/radiokatowice
-121|Radio Katowice - sląsk |https://stream4.nadaje.com:8497/katowice_b
-122|Radio Krysjan |http://radio.admin-marcin.pl:7424
 123|Radio Lenka |http://s1.slotex.pl:7028
 124|Radio Larmo |http://larmo.stream.laut.fm/larmo
-125|Radio Mazurek |http://radiomazurek.com.pl:8000
-126|Radio MoniRaj |http://s2.slotex.pl:10102
-127|Radio Muzyczne Radio Tesia |http://s1.slotex.pl:7514
-128|Radio Muzyka Dwoch Serc |https://s3.slotex.pl/shoutcast/7272/stream
-129|Radio NRB |http://s1.slotex.pl:7326
-130|Radio Park |http://sluchaj2.radiopark.biz.pl:8058
-131|Radio Piekary |https://stream.radiopiekary.pl/
-132|Radio Roland |https://ffn-stream29.radiohost.de/radioroland_mp3-192
-133|Radio Sekret |http://s1.slotex.pl:7556
-134|Radio Silesia |http://s1.slotex.pl:7350
-135|Radio Silesia 96,2 FM |http://s1.slotex.pl:7926
-136|Radio Slonski Musikbox |http://s1.slotex.pl:7550
-137|Radio Slonsky |http://stream.slonskyradio.eu
-138|Radio SR24 |http://s1.slotex.pl:7560
-139|Radio sląsk |http://s1.slotex.pl:7022
-140|Radio sląskie Radio |https://stream10.hosterion.pl/8066/stream
-141|Radio Tuptus |https://tuptus.stream.laut.fm/tuptus
-142|Radio Vanessa |http://s1.slotex.pl:7358
-143|Radio Wesole slonzoki |http://91.232.4.24:8126
-144|Radio Żory |http://s1.slotex.pl:7348
+127|Muzyczne Radio Tesia|http://s1.slotex.pl:7514
+128|Radio Muzyka Dwoch Serc|https://s3.slotex.pl/shoutcast/7272/stream
+130|Radio Park|http://sluchaj2.radiopark.biz.pl:8058
+131|Radio Piekary|https://stream.radiopiekary.pl/
+132|Radio Roland|https://ffn-stream29.radiohost.de/radioroland_mp3-192
+133|Radio Sekret|http://s1.slotex.pl:7556
+134|Radio Silesia|http://s1.slotex.pl:7350
+135|Radio Silesia 96,2 FM|http://s1.slotex.pl:7926
+136|Radio Slonski Musikbox|http://s1.slotex.pl:7550
+137|Radio Slonsky|http://stream.slonskyradio.eu
+138|Radio SR24|http://s1.slotex.pl:7560
+139|Radio sląsk|http://s1.slotex.pl:7022
+140|Sląskie Radio|https://stream10.hosterion.pl/8066/stream
+142|Radio Vanessa|http://s1.slotex.pl:7358
+143|Radio Wesole Slonzoki|http://91.232.4.24:8126
 145|Radio Ain Karim |http://stream.profeto.pl/radioainkarim.mp3
-146|Radio Chrystusa Krola PL |http://178.32.146.185:5216
-147|Radio Chrzescijanin |http://51.255.8.139:9754
-148|Radio Chrzescijanin - Dla Dzieci |http://s1.slotex.pl:7410
-149|Radio Chrzescijanin - Muzyka Instrumentalna |http://s1.slotex.pl:7172
-150|Radio Chrzescijanin - Nowy Testament |http://s1.slotex.pl:7116
-151|Radio Chrzescijanin - Smooth Jazz |https://ssl-1.radiohost.pl:9760
-152|Radio Dobre Media |http://shoutcast.abikus.pl:8000/dobremedia
+146|Radio Chrystusa Krola|http://178.32.146.185:5216
+147|Radio Chrzescijanin|http://51.255.8.139:9754
+148|Chrzescijanin-Dla Dzieci|http://s1.slotex.pl:7410
+149|Chrzescijanin-Instrumentalna|http://s1.slotex.pl:7172
+150|Chrzescijanin-Nowy Testament|http://s1.slotex.pl:7116
+151|Chrzescijanin-Smooth Jazz|https://ssl-1.radiohost.pl:9760
 153|Radio Doxa |http://shot2.inten.pl:10000
 154|Radio eM Katowice|http://194.181.177.253:8000
-155|Radio eM Kielce |http://78.46.170.230:8000
-156|Radio Emaus |http://51.68.139.236:8000/mp3stream
-157|Radio FARA |http://62.133.128.22:8000
-158|Radio FIAT |http://stream2.nadaje.com:8056
-159|Radio FSSPX |http://fsspx.pl:8000/radio.mp3
-160|Radio FSSPX - Kaplica |http://fsspx.pl:8000/kaplica.mp3
+156|Radio Emaus|http://51.68.139.236:8000/mp3stream
+157|Radio FARA|http://62.133.128.22:8000
+158|Radio FIAT|http://stream2.nadaje.com:8056
+159|Radio FSSPX|http://fsspx.pl:8000/radio.mp3
 161|Radio Glos |http://87.204.92.180:8000
-162|Radio I |http://izydor.tv:8888
 163|Radio Jasna Gora |http://online.radiojasnagora.pl:8000/rjg
 164|Radio Katolik |http://stream.radiojar.com/be75uyp53k8uv
 165|Radio KDRP Ciechanow |http://s1.slotex.pl:7762
-166|Radio KDRP Fara Ciechanow |http://185.149.2.217:8065
 167|Radio KDRP Plock |http://s1.slotex.pl:7760
 168|Radio KDRP Katedra Plocka |http://s1.slotex.pl:7754
-169|Radio KDRP Kostka Rypin |http://88.156.75.206:8000/rypin
 170|Radio KDRP Sanktuarium |http://s1.slotex.pl:7668
-171|Radio KDRP Tr. okazjonalna |http://185.149.2.217:8030
 172|Radio KRP|http://88.199.169.10:8000
 173|Radio Maryja|https://radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1
 174|Radio Milosierdzie|https://eu1.fastcast4u.com/proxy/milosierdzie?mp=/1
-175|Radio Nadzieja |http://streaming01.technologicznie.net:8000
 176|Radio Niepokalanow |http://88.199.169.10:8000
 177|Radio Palotti FM |http://s1.slotex.pl:7074
-178|Radio Palotti FM - Transmisje |http://s1.slotex.pl:7026
-179|Radio Pielgrzym - Kanal kazań i reportaży |http://shoutcast.com.pl:9448
-180|Radio Pielgrzym - Kazania |http://radiointernetowe.net:9450
-181|Radio Pielgrzym - Piesni po polsku |http://shoutcast.com.pl:9444
+179|Radio Pielgrzym - Reportaż|http://shoutcast.com.pl:9448
+180|Radio Pielgrzym - Kazania|http://radiointernetowe.net:9450
+181|Radio Pielgrzym - Piesni|http://shoutcast.com.pl:9444
 182|Radio Podlasie |http://s1.slotex.pl:7038
 183|Radio Profeto.pl |http://151.80.24.114/streammq.mp3
 184|Radio RDN Malopolska |https://stream1.dabcom.pl/rdn_mpl
-185|Radio RDN Nowy Sącz |https://stream1.dabcom.pl/rdn_ns
-186|Radio RDN - Transmisje |http://rdn.pl:8004
+185|Radio RDN Nowy Sącz|https://stream1.dabcom.pl/rdn_ns
 187|Radio Rodzina Kalisz |https://eu6.fastcast4u.com/proxy/radiorodzina?mp=/1
-188|Radio Rodzina Wroclaw |http://sluchaj.radiorodzina.pl:8000/RadioRodzinaWroclawLIVE.mp3
 189|Radio Rożaniec |http://51.255.235.165:5696/stream
 190|Radio Via Rzeszow |http://62.133.128.18:8040
 191|Radio Victoria |http://stream.v4.radiovictoria.pl:8176
-192|Radio ViennaPlus |http://radio.viennaplus.at:8000
 193|Radio Warszawa |http://streaming03.technologicznie.net:8765/radio_warszawa.mp3
