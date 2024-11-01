@@ -169,30 +169,15 @@
 182|Magic FM Club 80    |http://158.69.114.190:8014/stream
 183|Chill Out Zone      |http://air.chillout.zone:8000/;
 184|Chill In Zone       |http://air.chillout.zone:8020/;
-185|PARTY VIBE-AMBIENT  |http://94.130.242.5:8056/stream
-186|PARTY VIBE-DRUM&BASS|http://94.130.242.5:8004/stream
-187|PARTY VIBE-DUBSTEP  |http://94.130.242.5:8040/stream
-188|PARTY VIBE-POP      |http://94.130.242.5:8024/stream
-189|PARTY VIBE-PSYTRANCE|http://94.130.242.5:8010/stream
-190|PARTY VIBE-JAZZ     |http://94.130.242.5:8020/stream
-191|PARTY VIBE-RAP      |http://94.130.242.5:8016/stream
-192|PARTY VIBE-REGGAE   |http://94.130.242.5:8000/stream
-193|PARTY VIBE-ROCK     |http://94.130.242.5:8032/stream
-194|PARTY VIBE-TECHNO   |http://94.130.242.5:8046/stream
+185|VIBE - AMBIENT  |http://94.130.242.5:8056/stream
+186|VIBE - DRUM&BASS|http://94.130.242.5:8004/stream
+187|VIBE - DUBSTEP  |http://94.130.242.5:8040/stream
+188|VIBE - POP      |http://94.130.242.5:8024/stream
+189|VIBE - PSYTRANCE|http://94.130.242.5:8010/stream
+190|VIBE - JAZZ     |http://94.130.242.5:8020/stream
+191|VIBE - RAP      |http://94.130.242.5:8016/stream
+192|VIBE - REGGAE   |http://94.130.242.5:8000/stream
+193|VIBE - ROCK     |http://94.130.242.5:8032/stream
+194|VIBE - TECHNO   |http://94.130.242.5:8046/stream
 195|Intense Radio Live  |https://intenseradio.live-streams.nl:18000/live
-196|Deepvibes Radio     |http://88.208.218.19:9106/stream
-199|Energy 106 Belfast  |http://192.111.140.6:9633/stream
-200|Radio DiscoParty.pl |http://145.239.26.146:7432/;
-185|PARTY VIBE-AMBIENT  |http://94.130.242.5:8056/stream
-186|PARTY VIBE-DRUM&BASS|http://94.130.242.5:8004/stream
-187|PARTY VIBE-DUBSTEP  |http://94.130.242.5:8040/stream
-188|PARTY VIBE-POP      |http://94.130.242.5:8024/stream
-189|PARTY VIBE-PSYTRANCE|http://94.130.242.5:8010/stream
-190|PARTY VIBE - JAZZ   |http://94.130.242.5:8020/stream
-191|PARTY VIBE - RAP    |http://94.130.242.5:8016/stream
-192|PARTY VIBE - REGGAE |http://94.130.242.5:8000/stream
-193|PARTY VIBE - ROCK   |http://94.130.242.5:8032/stream
-194|PARTY VIBE-TECHNO   |http://94.130.242.5:8046/stream
-195|Intense Radio Live  |https://intenseradio.live-streams.nl:18000/live
-196|Deepvibes Radio     |http://88.208.218.19:9106/stream
 200|Radio DiscoParty.pl |http://145.239.26.146:7432/;
