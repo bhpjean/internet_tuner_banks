@@ -188,13 +188,11 @@
 187|PARTY VIBE-DUBSTEP  |http://94.130.242.5:8040/stream
 188|PARTY VIBE-POP      |http://94.130.242.5:8024/stream
 189|PARTY VIBE-PSYTRANCE|http://94.130.242.5:8010/stream
-190|PARTY VIBE-JAZZ     |http://94.130.242.5:8020/stream
-191|PARTY VIBE-RAP      |http://94.130.242.5:8016/stream
-192|PARTY VIBE-REGGAE   |http://94.130.242.5:8000/stream
-193|PARTY VIBE-ROCK     |http://94.130.242.5:8032/stream
+190|PARTY VIBE - JAZZ   |http://94.130.242.5:8020/stream
+191|PARTY VIBE - RAP    |http://94.130.242.5:8016/stream
+192|PARTY VIBE - REGGAE |http://94.130.242.5:8000/stream
+193|PARTY VIBE - ROCK   |http://94.130.242.5:8032/stream
 194|PARTY VIBE-TECHNO   |http://94.130.242.5:8046/stream
 195|Intense Radio Live  |https://intenseradio.live-streams.nl:18000/live
 196|Deepvibes Radio     |http://88.208.218.19:9106/stream
-198|Mediehuset 3 fmnorge|http://uk1.internet-radio.com:8150/live
-199|Energy 106 Belfast  |http://192.111.140.6:9633/stream
 200|Radio DiscoParty.pl |http://145.239.26.146:7432/;
