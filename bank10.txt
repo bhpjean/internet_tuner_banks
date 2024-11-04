@@ -10,6 +10,3 @@
 010|Demo Adam Smialek MP3 |http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.mp3
 011|AACPLUS|http://online.rockarsenal.ru:8000/rockarsenal_aacplus
 012|Testton_1.0.mp3|http://jeansoft.zapto.org/download/test/Testton_1.0.mp3
-013|Bosanova 4|http://prem4.jazzradio.com:80/bossanova?a98465a640bccee461d61ac2
-014|Bosanova 2|http://prem2.jazzradio.com:80/bossanova?a98465a640bccee461d61ac2
-015|Bosanova 1|http://prem1.jazzradio.com:80/bossanova?a98465a640bccee461d61ac2
