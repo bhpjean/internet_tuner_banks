@@ -123,3 +123,4 @@
 123|The Disco Planet|http://54.36.165.156:8430/stream
 124|Radio Profeto|https://stream.profeto.pl/streamnc.mp3
 125|ATOMIC FM|https://stream.zeno.fm/8tp76b14pzzuv
+126|Uradio - Trance|https://stream.zeno.fm/yx9mxd9g9whvv
