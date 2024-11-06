@@ -61,3 +61,6 @@
 61|LIVE THE ROCK|http://stations.classicairwavesaudio.com:1200/stream
 62|Classic Rock Music|http://listen.uturnradio.com/classic_rock
 63| Smooth Jazz |https://mpc1.mediacp.eu/stream/smoothjazzdeluxe
+64|Crash Radio|http://crashradio.org.uk/listen
+65|SLAY Radio|http://relay1.slayradio.org:8300/
+66|
