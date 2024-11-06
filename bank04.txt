@@ -68,4 +68,4 @@
 68|Over Clocked Remix|http://allrelays.rainwave.cc/ocremix.mp3
 69|Rainwave Cover|http://allrelays.rainwave.cc/covers.mp3
 70|Rainwave All|http://allrelays.rainwave.cc/all.mp3
-71|Random Chiptune|http://grupomundodigital.com:9170/stream
+71|Radio PARALAX|http://radio-paralax.de:8000/;
