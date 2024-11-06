@@ -63,4 +63,5 @@
 63| Smooth Jazz |https://mpc1.mediacp.eu/stream/smoothjazzdeluxe
 64|Crash Radio|http://crashradio.org.uk/listen
 65|SLAY Radio|http://relay1.slayradio.org:8300/
-66|
+66|Rainwave Chiptunes|http://allrelays.rainwave.cc/chiptune.mp3
+67| Rainwave Game Music|http://allrelays.rainwave.cc/game.mp3
