@@ -69,3 +69,4 @@
 69|Rainwave Cover|http://allrelays.rainwave.cc/covers.mp3
 70|Rainwave All|http://allrelays.rainwave.cc/all.mp3
 71|Radio PARALAX|http://radio-paralax.de:8000/;
+72|Kaaos Radio|https://stream.kaaosradio.fi:8001/chip
