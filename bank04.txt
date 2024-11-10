@@ -2,7 +2,6 @@
 2 |Polskie Radio Dwojka|http://stream3.polskieradio.pl:8952
 3 |Polskie Radio Trojka|http://stream3.polskieradio.pl:8954
 4 |Polskie Radio Czworka|http://stream3.polskieradio.pl:8956
-5 |Polskie Radio 24|http://stream3.polskieradio.pl:8480
 6 |Polskie Radio Chopin|http://stream3.polskieradio.pl:8960
 7 |Polskie Radio Dzieciom|http://stream3.polskieradio.pl:8966
 8 |Polskie Radio Kierowcow|http://stream3.polskieradio.pl:8968
