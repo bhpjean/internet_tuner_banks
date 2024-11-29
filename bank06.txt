@@ -125,3 +125,4 @@
 190|Radio Via Rzeszow |http://62.133.128.18:8040
 191|Radio Victoria |http://stream.v4.radiovictoria.pl:8176
 193|Radio Warszawa |http://streaming03.technologicznie.net:8765/radio_warszawa.mp3
+194|Radio PLUS Radom|http://pl01.cdn.eurozet.pl/plu-rdo.mp3
