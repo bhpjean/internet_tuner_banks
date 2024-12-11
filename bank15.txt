@@ -1,0 +1,12 @@
+01|Radio Dzwiek|http://stream320.radiodzwiek.pl/
+02|Radioparadise           |http://stream.radioparadise.com/flac
+03|World Eclectic Mix      |http://stream.radioparadise.com/eclectic-flac
+04|Rock Mix                |http://stream.radioparadise.com/rock-flac
+05|Mellow Mix              |http://stream.radioparadise.com/mellow-flac
+06|   TEST LUBARTOW        |http://jeansoft.zapto.org/download/test/lubartow.mp3
+07|   LUBARTOW             |http://jeansoft.zapto.org/download/test/lubartow_2.flac
+08|   TEST ZRK             |http://jeansoft.zapto.org/download/test/zrk.mp3
+09|Demo Adam Smialek FLAC|http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.flac
+10|Demo Adam Smialek MP3 |http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.mp3
+11|AACPLUS|http://online.rockarsenal.ru:8000/rockarsenal_aacplus
+12|Testton_1.0.mp3|http://jeansoft.zapto.org/download/test/Testton_1.0.mp3

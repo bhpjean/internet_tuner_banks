@@ -1,12 +1,78 @@
-001|Radio Dzwiek|http://stream320.radiodzwiek.pl/
-002|Radioparadise           |http://stream.radioparadise.com/flac
-003|World Eclectic Mix      |http://stream.radioparadise.com/eclectic-flac
-004|Rock Mix                |http://stream.radioparadise.com/rock-flac
-005|Mellow Mix              |http://stream.radioparadise.com/mellow-flac
-006|   TEST LUBARTOW        |http://jeansoft.zapto.org/download/test/lubartow.mp3
-007|   LUBARTOW             |http://jeansoft.zapto.org/download/test/lubartow_2.flac
-008|   TEST ZRK             |http://jeansoft.zapto.org/download/test/zrk.mp3
-009|Demo Adam Smialek FLAC|http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.flac
-010|Demo Adam Smialek MP3 |http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.mp3
-011|AACPLUS|http://online.rockarsenal.ru:8000/rockarsenal_aacplus
-012|Testton_1.0.mp3|http://jeansoft.zapto.org/download/test/Testton_1.0.mp3
+01|OPEN FM House|http://stream.open.fm/5
+02|OPEN FM Hygge|http://stream.open.fm/138
+03|OPEN FM Impreza|http://stream.open.fm/2
+04|OPEN FM Impreza PL|http://stream.open.fm/12
+05|OPEN FM Italo Disco|http://stream.open.fm/27
+06|OPEN FM Jazz|http://stream.open.fm/166
+07|OPEN FM Joga|http://stream.open.fm/362
+08|OPEN FM Karnawal 70 80 90|http://stream.open.fm/133
+09|OPEN FM Karnawalowe Hity|http://stream.open.fm/71
+10|OPEN FM Kids - Muzyka & Ciekawostki|http://stream.open.fm/16
+11|OPEN FM Klub 90|http://stream.open.fm/8
+12|OPEN FM Kolędy|http://stream.open.fm/89
+13|OPEN FM Kolysanki|http://stream.open.fm/142
+14|OPEN FM Koncentracja|http://stream.open.fm/161
+15|OPEN FM Kraina lagodnosci|http://stream.open.fm/37
+16|OPEN FM Latino Hits|http://stream.open.fm/19
+17|OPEN FM Lejdis Cafe|http://stream.open.fm/48
+18|OPEN FM Lejdis Party|http://stream.open.fm/102
+19|OPEN FM Love|http://stream.open.fm/121
+20|OPEN FM Muzyka do snu|http://stream.open.fm/70
+21|OPEN FM Muzyka Filmowa|http://stream.open.fm/38
+22|OPEN FM Muzyka Klasyczna|http://stream.open.fm/67
+23|OPEN FM Muzyka Motywacyjna|http://stream.open.fm/143
+24|OPEN FM Największe Przeboje XX w.|http://stream.open.fm/163
+25|OPEN FM Nauka|http://stream.open.fm/117
+26|OPEN FM Odglosy Natury|http://stream.open.fm/52
+27|OPEN FM Piosenki dla dzieci|http://stream.open.fm/160
+28|OPEN FM Po Polsku|http://stream.open.fm/1
+29|OPEN FM Po Polsku 60/70|http://stream.open.fm/17
+30|OPEN FM Po Polsku 80|http://stream.open.fm/79
+31|OPEN FM Po Polsku 90|http://stream.open.fm/369
+32|OPEN FM Polo & Dance|http://stream.open.fm/128
+33|OPEN FM Polska Rocks!|http://stream.open.fm/177
+34|OPEN FM Polski Rock|http://stream.open.fm/29
+35|OPEN FM Polski Rock Classic|http://stream.open.fm/45
+36|OPEN FM Polskie Ballady|http://stream.open.fm/165
+37|OPEN FM Polskie Reggae|http://stream.open.fm/22
+38|OPEN FM Pozytywki|http://stream.open.fm/194
+39|OPEN FM Praca|http://stream.open.fm/109
+40|OPEN FM Praca Rock|http://stream.open.fm/104
+41|OPEN FM Punk Rock|http://stream.open.fm/78
+42|OPEN FM Radio Rak'n'Roll|http://stream.open.fm/168
+43|OPEN FM Reklama|http://stream.open.fm/380
+44|OPEN FM Relaks|http://stream.open.fm/112
+45|OPEN FM Retro Cafe|http://stream.open.fm/25
+46|OPEN FM Rock Ballady|http://stream.open.fm/61
+47|OPEN FM Rocks|http://stream.open.fm/77
+48|OPEN FM Sad|http://stream.open.fm/103
+49|OPEN FM Sexy: Soul & R'n'B|http://stream.open.fm/18
+50|OPEN FM Smooth Jazz|http://stream.open.fm/60
+51|OPEN FM Spacer|http://stream.open.fm/144
+52|OPEN FM Szanty|http://stream.open.fm/28
+53|OPEN FM Szum|http://stream.open.fm/193
+54|OPEN FM Top 20 Alt|http://stream.open.fm/83
+55|OPEN FM Top 20 Disco Polo|http://stream.open.fm/53
+56|OPEN FM Top 20 Hip-Hop|http://stream.open.fm/98
+57|OPEN FM Top 20 Impreza|http://stream.open.fm/95
+58|OPEN FM Top 20 Pop|http://stream.open.fm/96
+59|OPEN FM Top 20 PL|http://stream.open.fm/97
+60|OPEN FM Top 20 Rock|http://stream.open.fm/99
+61|OPEN FM Top 2021 Hits|http://stream.open.fm/131
+62|OPEN FM Top Wszech Czasow - Hip-Hop PL|http://stream.open.fm/176
+63|OPEN FM Top Wszech Czasow - Polska|http://stream.open.fm/152
+64|OPEN FM Top Wszech Czasow - Rock|http://stream.open.fm/153
+65|OPEN FM Top Wszech Czasow - Rock PL|http://stream.open.fm/186
+66|OPEN FM Top Wszech Czasow - swiat|http://stream.open.fm/151
+67|OPEN FM Trance|http://stream.open.fm/7
+68|OPEN FM Trap PL|http://stream.open.fm/355
+69|OPEN FM Trap USA|http://stream.open.fm/354
+70|OPEN FM Trening|http://stream.open.fm/101
+71|OPEN FM Tylko Polskie Przeboje|http://stream.open.fm/111
+72|OPEN FM Ukraina Top 20|http://stream.open.fm/191
+73|OPEN FM W Domu|http://stream.open.fm/365
+74|OPEN FM W Podroży|http://stream.open.fm/381
+75|OPEN FM We Dwoje|http://stream.open.fm/4
+76|OPEN FM Weekend Chill|http://stream.open.fm/126
+77|OPEN FM Weekend Hits|http://stream.open.fm/127
+78|OPEN FM Wesele|http://stream.open.fm/110

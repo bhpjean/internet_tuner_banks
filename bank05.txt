@@ -1,126 +1,100 @@
 ﻿001|90s90s Dance|https://streams.90s90s.de/eurodance/mp3-192/
-002|Oxygen Classic Rock |https://oxygenmusic.hu:8443/oxygenclassicrock
-003|Rock Replay Radio   |http://strm112.1.fm/crock_mobile_mp3
-004|Classic Rock California|https://broadcast.shoutstream.co.uk/stream/8014
-005|Cruisin CL Rock     |http://s11.myradiostream.com:7622/
-006|So Cacarecos CL Rock|http://sokakarecos.ddns.net:9030/rock128
-007|KEXP|http://live-mp3-128.kexp.org/kexp128.mp3
-008|Radio Plus |https://pl02.cdn.eurozet.pl/plu-bdg.mp3
-009|Baars classic Rock  |http://server-66.stream-server.nl:8840/
-010|Planeta FM|https://pl02.cdn.eurozet.pl/pla-net.mp3
-011|Antyradio|https://an.cdn.eurozet.pl/ant-waw.mp3
-012|Antyradio Katowice|https://an.cdn.eurozet.pl/ant-kat.mp3
-013|Antyradio-Ballads|https://an.cdn.eurozet.pl/ANTBAL.mp3
-014|Antyradio-Classic Rock|https://an.cdn.eurozet.pl/ANTCLA.mp3
-015|Antyradio-Covers|https://an.cdn.eurozet.pl/ANTCOV.mp3
-016|Antyradio-Greatest|https://an.cdn.eurozet.pl/ANTGRE.mp3
-017|Antyradio-Hard|https://an.cdn.eurozet.pl/ANTHAR.mp3
-018|Antyradio-Live|https://an.cdn.eurozet.pl/ANTLIV.mp3
-019|Antyradio-Made in Poland|https://an.cdn.eurozet.pl/ANTPOL.mp3
-020|Antyradio-Makak|https://an.cdn.eurozet.pl/ANTMAK.mp3
-021|Antyradio-Unplugged|https://an.cdn.eurozet.pl/ANTUNP.mp3
-022|Antyradio-Woodstock|https://an.cdn.eurozet.pl/ANTWOD.mp3
-023|Antyradio-X-mass|https://an.cdn.eurozet.pl/ANTXMA.mp3
-024|Radio Derf Blues Standard|http://178.19.96.111:8011
-025|Radio Derf Bluesdelta|http://178.19.96.111:8007
-026|Radio Derf Bluesrock|http://178.19.96.111:8013
-027|Radio Derf Jazz|http://178.19.96.111:8005
-028|Radio Derf Polski blues|http://178.19.96.111:8026
-029|Radio Derf Soul|http://178.19.96.111:8018
-030|FTB.net-Club|http://play.radioftb.net:8000
-031|FTB.net-Disco Polo|http://play.radioftb.net:8022
-032|FTB.net-Flash FM|http://play.radioftb.net:8008
-033|FTB.net-Rap Music|http://play.radioftb.net:8028
-034|FTB.net-Retro DJ|http://play.radioftb.net:8016
-035|InterStacja|http://4stream.pl:18322
-036|InterStacja Club|http://4stream.pl:18268
-037|InterStacja Disco Polo|http://4stream.pl:18274
-038|InterStacja Eurodance|http://4stream.pl:18180
-039|InterStacja Najnowsze Hity|http://4stream.pl:18410
-040|InterStacja Oldies|http://4stream.pl:18290
-041|Muzyczne Radio|https://stream1.dabcom.pl/mr_flac
-042|Radio Nedds24.pl|http://s1.nedds24.pl:8100/radio.mp3
-043|Radio Nedds24 Club|http://s1.nedds24.pl:8110/radio.mp3
-044|Radio Nedds24 Disco|http://s1.nedds24.pl:8120/radio.mp3
-045|Radio Italo4you|http://s0.radiohost.pl:8018/stream
-046|Italo Dance|http://radio.italodance.pl:7694
-047|Italodance - Neo80s|http://neo80s.italodance.pl:7750
-048|Radio Muza 80|http://91.232.4.33:9011/stream
-049|Radio One Live 80s&90s|http://91.232.4.33:8198/stream
-050|Radio Top 80|http://radio.top80.pl:9940
-051|Mirage Italo Dance|https://ssl-1.radiohost.pl:9569
-052|Mirage Prywatka|https://ssl-1.radiohost.pl:7214
-053|Mirage Space|https://ssl-1.radiohost.pl:9563
-054|Mbox|http://panel.radiombox.pl/radio/8000/RadioMbox320
-055|Mbox - Club|http://panel.radiombox.pl/radio/8070/Club320kbps
-056|Mbox - Disco Polo|http://panel.radiombox.pl/radio/8030/DiscoPolo320kbps
-057|Mbox - Gold Hits|http://panel.radiombox.pl/radio/8040/GoldHits320kbps
-058|Mbox - Rock|http://panel.radiombox.pl/radio/8090/Rock320kbps
-059|Radio Music Max|91.232.4.33:7040/Stream1
-060|Radio divertimento|http://s7.radiohost.pl:11518/stream
-061|Muzyczne Radio|https://stream.rcs.revma.com/gzwc1xcq042vv
-062|Muzyczne Radio Best of|http://stream3.nadaje.com:8600
-063|Muzyczne Radio HitPlaneta|http://stream3.nadaje.com:8592
-064|Radio Party|http://s4.radioparty.pl:8000/rp.mp3
-065|Radio Party-Djmixes|http://djmixes.radioparty.pl:8035
-066|Radio Party-Energy 2000|http://energy2000.radioparty.pl:8005
-067|Radio Party-House|http://house.radioparty.pl:8010
-068|Radio Party-Trance|http://trance.radioparty.pl:8015
-069|Radio Party-Vocal Trance|http://vocal.trance.radioparty.pl:8025
-070|Radio Pasja|http://91.232.4.33:8049/stream
-071|Radio Pasja-Chillout|http://91.232.4.33:8108/stream
-072|Radio Pasja-Dance|http://91.232.4.33:9466/stream
-073|Radio Pasja-Klubowa|http://91.232.4.33:9460/stream
-074|Radio Pasja-Pop|http://91.232.4.33:8084/stream
-075|Radio Pasja-Relaks|http://91.232.4.33:8102/stream
-076|Rock Arsenal|http://online.rockarsenal.ru:8000/rockarsenal_aacplus
-077|Classic Vinyl|https://icecast.walmradio.com:8443/classic
-078|Smooth Jazz|https://bcast.vigormultimedia.com:48888/sjcompl320mp3
-079|Blues Wave|https://blueswave.radio:8100/hifiblues
-080|FUN Radio|https://icecast.funradio.fr/fun-1-44-128
-081|Radio Dzwiek|http://s3.slotex.pl:7408/;
-082|Minimal Mix Radio|http://orion.shoutca.st:8750
-083|Ask Fm Club|http://club.streamcast.online:7755/stream
-084|Radio Safira|https://stream12.hosterion.pl/stream/safira
-085|EL Stacja|http://radio.el-stacja.pl:8000/elstacja320mp3
-086|Radio Unidisco      |https://broadcast.miami/proxy/unidisco?mp=/stream/;
-087|ROKS Classic Rock   |https://online.radioroks.ua/RadioROKS_ClassicRock_HD
-088|Caprice-Classic Rock|http://79.120.77.11:8000/rock.m3u
-089|RDMIX CLASSIC ROCK  |https://giorgia.radiobellissima.it:8210/radio.mp3
-090|Zeppelin|https://radiostreaming.ert.gr/ert-zeppelin
-091|Radio Motown|http://54.36.165.156:8630/stream
-092|Mega Radio|https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
-093|VOX FM |http://ic1.smcdn.pl/3990-1.mp3
-094|VOX FM HIT 22|http://ic1.smcdn.pl/6020-1.mp3
-095|VOX FM DISCO PARTY|http://ic1.smcdn.pl/6180-1.mp3
-096|VOX FM DISCO 90|http://ic1.smcdn.pl/6170-1.mp3
-097|VOX FM BEST LISTA|http://ic1.smcdn.pl/6100-1.mp3
-098|90s90s Grunge       |https://streams.90s90s.de/grunge/mp3-192/liveradio/
-099|90s90s Hits          |https://streams.90s90s.de/pop/mp3-192/
-100|90s90s The BEAT      |https://streams.90s90s.de/main/mp3-192/
-101|ZENO FM|https://stream-152.zeno.fm/sd01pm0h7zquv?zs=R_jHoZa-T8WpMUxsXy1XKA
-102|Virgin Classic Rock|http://icy.unitedradio.it/VirginRockClassics.mp3
-103|Easy Crooze|https://streaming.shoutcast.com/easy-crooze-aac
-104|Ambient Sleeping Pil|http://radio.stereoscenic.com/asp-h
-105|.977 80s|http://playerservices.streamtheworld.com/pls/977_80.pls
-106|.977 Country|http://26103.live.streamtheworld.com:80/977_COUNTRY_SC
-107|.977 The Mix|http://26153.live.streamtheworld.com:80/977_MIX_SC
-108|.977 Hitz|http://26283.live.streamtheworld.com:80/977_HITS_SC
-109|Revma|https://n03a-eu.rcs.revma.com/69u3fhduaq8uv?rj-ttl=5&rj-tok=AAABjJb2iCoAqw7o-bmbUycFzA
-110|Hi On Line Poop|http://mediaserv30.live-streams.nl:8086/live
-111|Hi On Line Latin|http://mediaserv33.live-streams.nl:8034/live
-112|Hi On Line Jazz|http://mediaserv38.live-streams.nl:8006/live
-113|Hi On Line Lounge|http://mediaserv33.live-streams.nl:8036/live
-114|Hi On Line Gold|http://mediaserv30.live-streams.nl:8000/live
-115|Hi On Line Classic|http://mediaserv30.live-streams.nl:8088/live
-116|Hi On Line World|http://mediaserv38.live-streams.nl:8027/live
-117|Hi On Line France|http://mediaserv21.live-streams.nl:8000/live
-118|Chill 192|https://streaming.starterfm.com/radio/8050/chill192
-119|ANTENNE BAYERN|http://stream.antenne.de:80/antenne
-120|ROCK ANTENNE|http://stream.antenne.de:80/heavy-metal
-121|The Disco Palace|http://54.36.165.156:8410/stream
-122|The Disco Paradise|http://54.36.165.156:8420/stream
-123|The Disco Planet|http://54.36.165.156:8430/stream
-124|Radio Profeto|https://stream.profeto.pl/streamnc.mp3
-125|ATOMIC FM|https://stream.zeno.fm/8tp76b14pzzuv
-126|Uradio - Trance|https://stream.zeno.fm/yx9mxd9g9whvv
+002|90s90s Grunge       |https://streams.90s90s.de/grunge/mp3-192/liveradio/
+003|90s90s Hits          |https://streams.90s90s.de/pop/mp3-192/
+004|90s90s The BEAT      |https://streams.90s90s.de/main/mp3-192/
+005|Oxygen Classic Rock |https://oxygenmusic.hu:8443/oxygenclassicrock
+006|Rock Replay Radio   |http://strm112.1.fm/crock_mobile_mp3
+007|Classic Rock California|https://broadcast.shoutstream.co.uk/stream/8014
+008|Cruisin CL Rock     |http://s11.myradiostream.com:7622/
+009|So Cacarecos CL Rock|http://sokakarecos.ddns.net:9030/rock128
+010|KEXP|http://live-mp3-128.kexp.org/kexp128.mp3
+011|Radio Plus |https://pl02.cdn.eurozet.pl/plu-bdg.mp3
+012|Baars classic Rock  |http://server-66.stream-server.nl:8840/
+013|Planeta FM|https://pl02.cdn.eurozet.pl/pla-net.mp3
+014|Antyradio|https://an.cdn.eurozet.pl/ant-waw.mp3
+015|Antyradio Katowice|https://an.cdn.eurozet.pl/ant-kat.mp3
+016|Antyradio-Ballads|https://an.cdn.eurozet.pl/ANTBAL.mp3
+017|Antyradio-Classic Rock|https://an.cdn.eurozet.pl/ANTCLA.mp3
+018|Antyradio-Covers|https://an.cdn.eurozet.pl/ANTCOV.mp3
+019|Antyradio-Greatest|https://an.cdn.eurozet.pl/ANTGRE.mp3
+020|Antyradio-Hard|https://an.cdn.eurozet.pl/ANTHAR.mp3
+021|Antyradio-Live|https://an.cdn.eurozet.pl/ANTLIV.mp3
+022|Antyradio-Made in Poland|https://an.cdn.eurozet.pl/ANTPOL.mp3
+023|Antyradio-Makak|https://an.cdn.eurozet.pl/ANTMAK.mp3
+024|Antyradio-Unplugged|https://an.cdn.eurozet.pl/ANTUNP.mp3
+025|Antyradio-Woodstock|https://an.cdn.eurozet.pl/ANTWOD.mp3
+026|Antyradio-X-mass|https://an.cdn.eurozet.pl/ANTXMA.mp3
+027|Radio Derf Blues Standard|http://178.19.96.111:8011
+028|Radio Derf Bluesdelta|http://178.19.96.111:8007
+029|Radio Derf Bluesrock|http://178.19.96.111:8013
+030|Radio Derf Jazz|http://178.19.96.111:8005
+031|Radio Derf Polski blues|http://178.19.96.111:8026
+032|Radio Derf Soul|http://178.19.96.111:8018
+033|FTB.net-Club|http://play.radioftb.net:8000
+034|FTB.net-Disco Polo|http://play.radioftb.net:8022
+035|FTB.net-Flash FM|http://play.radioftb.net:8008
+036|FTB.net-Rap Music|http://play.radioftb.net:8028
+037|FTB.net-Retro DJ|http://play.radioftb.net:8016
+038|InterStacja|http://4stream.pl:18322
+039|InterStacja Club|http://4stream.pl:18268
+040|InterStacja Disco Polo|http://4stream.pl:18274
+041|InterStacja Eurodance|http://4stream.pl:18180
+042|InterStacja Najnowsze Hity|http://4stream.pl:18410
+043|InterStacja Oldies|http://4stream.pl:18290
+044|Muzyczne Radio|https://stream1.dabcom.pl/mr_flac
+045|Radio Nedds24.pl|http://s1.nedds24.pl:8100/radio.mp3
+046|Radio Nedds24 Club|http://s1.nedds24.pl:8110/radio.mp3
+047|Radio Nedds24 Disco|http://s1.nedds24.pl:8120/radio.mp3
+048|Radio Italo4you|http://s0.radiohost.pl:8018/stream
+049|Italo Dance|http://radio.italodance.pl:7694
+050|Italodance - Neo80s|http://neo80s.italodance.pl:7750
+051|Radio Muza 80|http://91.232.4.33:9011/stream
+052|Radio One Live 80s&90s|http://91.232.4.33:8198/stream
+053|Radio Top 80|http://radio.top80.pl:9940
+054|Mirage Italo Dance|https://ssl-1.radiohost.pl:9569
+055|Mirage Prywatka|https://ssl-1.radiohost.pl:7214
+056|Mirage Space|https://ssl-1.radiohost.pl:9563
+057|Mbox|http://panel.radiombox.pl/radio/8000/RadioMbox320
+058|Mbox - Club|http://panel.radiombox.pl/radio/8070/Club320kbps
+059|Mbox - Disco Polo|http://panel.radiombox.pl/radio/8030/DiscoPolo320kbps
+060|Mbox - Gold Hits|http://panel.radiombox.pl/radio/8040/GoldHits320kbps
+061|Mbox - Rock|http://panel.radiombox.pl/radio/8090/Rock320kbps
+062|Radio Music Max|91.232.4.33:7040/Stream1
+063|Radio divertimento|http://s7.radiohost.pl:11518/stream
+064|Muzyczne Radio|https://stream.rcs.revma.com/gzwc1xcq042vv
+065|Muzyczne Radio Best of|http://stream3.nadaje.com:8600
+066|Muzyczne Radio HitPlaneta|http://stream3.nadaje.com:8592
+067|Radio Party|http://s4.radioparty.pl:8000/rp.mp3
+068|Radio Party-Djmixes|http://djmixes.radioparty.pl:8035
+069|Radio Party-Energy 2000|http://energy2000.radioparty.pl:8005
+070|Radio Party-House|http://house.radioparty.pl:8010
+071|Radio Party-Trance|http://trance.radioparty.pl:8015
+072|Radio Party-Vocal Trance|http://vocal.trance.radioparty.pl:8025
+073|Radio Pasja|http://91.232.4.33:8049/stream
+074|Radio Pasja-Chillout|http://91.232.4.33:8108/stream
+075|Radio Pasja-Dance|http://91.232.4.33:9466/stream
+076|Radio Pasja-Klubowa|http://91.232.4.33:9460/stream
+077|Radio Pasja-Pop|http://91.232.4.33:8084/stream
+078|Radio Pasja-Relaks|http://91.232.4.33:8102/stream
+079|Rock Arsenal|http://online.rockarsenal.ru:8000/rockarsenal_aacplus
+080|Classic Vinyl|https://icecast.walmradio.com:8443/classic
+081|Smooth Jazz|https://bcast.vigormultimedia.com:48888/sjcompl320mp3
+082|Blues Wave|https://blueswave.radio:8100/hifiblues
+083|FUN Radio|https://icecast.funradio.fr/fun-1-44-128
+084|Radio Dzwiek|http://s3.slotex.pl:7408/;
+085|Minimal Mix Radio|http://orion.shoutca.st:8750
+086|Ask Fm Club|http://club.streamcast.online:7755/stream
+087|Radio Safira|https://stream12.hosterion.pl/stream/safira
+088|EL Stacja|http://radio.el-stacja.pl:8000/elstacja320mp3
+089|Radio Unidisco      |https://broadcast.miami/proxy/unidisco?mp=/stream/;
+090|ROKS Classic Rock   |https://online.radioroks.ua/RadioROKS_ClassicRock_HD
+091|Caprice-Classic Rock|http://79.120.77.11:8000/rock.m3u
+092|RDMIX CLASSIC ROCK  |https://giorgia.radiobellissima.it:8210/radio.mp3
+093|Zeppelin|https://radiostreaming.ert.gr/ert-zeppelin
+094|Radio Motown|http://54.36.165.156:8630/stream
+095|Mega Radio|https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
+096|VOX FM |http://ic1.smcdn.pl/3990-1.mp3
+097|VOX FM HIT 22|http://ic1.smcdn.pl/6020-1.mp3
+098|VOX FM DISCO PARTY|http://ic1.smcdn.pl/6180-1.mp3
+099|VOX FM DISCO 90|http://ic1.smcdn.pl/6170-1.mp3
+100|VOX FM BEST LISTA|http://ic1.smcdn.pl/6100-1.mp3

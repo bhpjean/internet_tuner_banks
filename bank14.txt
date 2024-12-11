@@ -1,0 +1,35 @@
+01|R.D.N. Malopolska|https://stream1.dabcom.pl/rdn_mpl
+02|R.D.N. Nowy Sącz|https://stream1.dabcom.pl/rdn_ns
+03|Radio Chrystusa Krola|http://178.32.146.185:5216
+04|Radio Ain Karim |http://stream.profeto.pl/radioainkarim.mp3
+05|Radio Chrzescijanin|http://51.255.8.139:9754
+06|Chrzescijanin-Dla Dzieci|http://s1.slotex.pl:7410
+07|Chrzescijanin-Instrumentalna|http://s1.slotex.pl:7172
+08|Chrzescijanin-Nowy Testament|http://s1.slotex.pl:7116
+09|Chrzescijanin-Smooth Jazz|https://ssl-1.radiohost.pl:9760
+10|Radio Doxa |http://shot2.inten.pl:10000
+11|Radio eM Katowice|http://194.181.177.253:8000
+12|Radio Emaus|http://51.68.139.236:8000/mp3stream
+13|Radio FARA|http://62.133.128.22:8000
+14|Radio FIAT|http://stream2.nadaje.com:8056
+15|Radio FSSPX|http://fsspx.pl:8000/radio.mp3
+16|Radio Glos |http://87.204.92.180:8000
+17|Radio Jasna Gora |http://online.radiojasnagora.pl:8000/rjg
+18|Radio Katolik |http://stream.radiojar.com/be75uyp53k8uv
+19|Radio KDRP Ciechanow |http://s1.slotex.pl:7762
+20|Radio KDRP Plock |http://s1.slotex.pl:7760
+21|Radio KDRP Katedra Plocka |http://s1.slotex.pl:7754
+22|Radio KDRP Sanktuarium |http://s1.slotex.pl:7668
+23|Radio KRP|http://88.199.169.10:8000
+24|Radio Maryja|https://radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1
+25|Radio Milosierdzie|https://eu1.fastcast4u.com/proxy/milosierdzie?mp=/1
+26|Radio Niepokalanow |http://88.199.169.10:8000
+27|Radio Palotti FM |http://s1.slotex.pl:7074
+28|Radio Pielgrzym - Reportaż|http://shoutcast.com.pl:9448
+29|Radio Pielgrzym - Kazania|http://radiointernetowe.net:9450
+30|Radio Pielgrzym - Piesni|http://shoutcast.com.pl:9444
+31|Radio Podlasie |http://s1.slotex.pl:7038
+32|Radio Profeto.pl |http://151.80.24.114/streammq.mp3
+33|Radio Rodzina Kalisz |https://eu6.fastcast4u.com/proxy/radiorodzina?mp=/1
+34|Radio Rożaniec |http://51.255.235.165:5696/stream
+35|Radio Via Rzeszow |http://62.133.128.18:8040
