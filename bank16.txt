@@ -1,0 +1,95 @@
+1 | 1.FM - Blues Radio | http://strm112.1.fm/blues_mobile_mp3
+2 | 2BOB Radio 104.7 FM | http://eno.emit.com:8000/2bob_live_64.mp3
+3 | 4ZZZ FM 102.1 - Alternative | https://iheart.4zzz.org.au/4zzz
+4 | 6forty Radio | http://54.173.171.80:8000/6forty
+5 | A.M. Ambient | http://radio.stereoscenic.com/ama-h
+6 | ABC Country | http://live-radio01.mediahubaustralia.com/CTRW/mp3/
+7 | ABC Jazz | http://live-radio01.mediahubaustralia.com/JAZW/mp3/
+8 | Absolut Hot | http://stream.absolutradio.de/hot/mp3-128/radioplayer/
+9 | Absolut music XL | http://stream.absolutradio.de/hq/mp3-160/radioplayer/
+10 | Absolut Relax | http://stream.absolutradio.de/relax/mp3-160/radioplayer/
+11 | Ambient Sleeping Pill | http://radio.stereoscenic.com/asp-h
+12 | Ancient FM - Mediaeval and Renaissance Music | https://mediaserv73.live-streams.nl:18058/stream
+13 | ArtSound FM 92.7 | http://119.15.96.188/stream2.mp3
+19 | Bayern 2 | https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid
+20 | BBC Asian Network | http://stream.live.vc.bbcmedia.co.uk/bbc_asian_network
+21 | BBC Asian Network (320K) | http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8
+22 | BBC Radio 1 | http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+23 | BBC Radio 1 (320K) | http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8
+24 | BBC Radio 2 | http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+25 | BBC Radio 2 (320K) | http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8
+26 | BBC Radio 3 | http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+27 | BBC Radio 3 (320K) | http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8
+28 | BBC Radio 4 FM | http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
+29 | BBC Radio 4 FM (320K) | http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8
+30 | BBC Radio 5 live | http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
+31 | BBC Radio 5 live (320K) | http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8
+32 | BBC Radio 5 live sports extra (320K) | http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
+33 | BBC Radio 6 music | http://stream.live.vc.bbcmedia.co.uk/bbc_6music
+34 | BBC Radio 6 music (320K) | http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8
+35 | BR-Klassik | https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
+36 | Buddha Radio | https://wz4web.scahw.com.au/live/4buddha_32.stream/playlist.m3u8
+37 | Classic FM | http://media-ice.musicradio.com/ClassicFMMP3
+38 | Czech Radio Classical | http://icecast6.play.cz/croddur-256.mp3
+39 | DR P6 Beat | http://live-icy.gss.dr.dk:8000/A/A29H.mp3
+40 | DR P8 Jazz | http://live-icy.gss.dr.dk:8000/A/A22H.mp3
+41 | Eldoradio | http://81.92.238.33:80
+42 | FluxFM | http://streams.fluxfm.de/live/mp3-320/audio/
+43 | FluxFM - 60s | http://streams.fluxfm.de/60er/mp3-320/streams.fluxfm.de/
+44 | FluxFM - 70s | http://streams.fluxfm.de/70er/mp3-320/audio/
+45 | FluxFM - 80s | http://streams.fluxfm.de/80er/mp3-320/streams.fluxfm.de/
+46 | FluxFM - 90s | http://streams.fluxfm.de/90er/mp3-320/audio/
+47 | FluxFM - B-Funk | http://streams.fluxfm.de/event01/mp3-320/streams.fluxfm.de/
+48 | FluxFM - Berlin Beach House Radio | http://streams.fluxfm.de/bbeachhouse/mp3-320/audio/
+49 | FluxFM - BoomFM | http://streams.fluxfm.de/boomfm/mp3-320/audio/
+50 | FluxFM - BoomFM Classics | http://streams.fluxfm.de/boomfmclassics/mp3-320/audio/
+51 | FluxFM - ChillHop | http://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/
+52 | FluxFM - Clubsandwich | http://streams.fluxfm.de/clubsandwich/mp3-320/audio/
+53 | FluxFM - Dub Radio | http://streams.fluxfm.de/dubradio/mp3-320/streams.fluxfm.de/
+54 | FluxFM - ElectroFlux | http://streams.fluxfm.de/elektro/mp3-320/audio/
+55 | FluxFM - FluxForward | http://streams.fluxfm.de/forward/mp3-320/audio/
+56 | FluxFM - FluxKompensator | http://streams.fluxfm.de/fluxkompensator/mp3-320/audio/
+57 | FluxFM - FluxLounge | http://streams.fluxfm.de/lounge/mp3-320/audio/
+58 | FluxFM - Hard Rock FM | http://streams.fluxfm.de/hardrock/mp3-320/streams.fluxfm.de/
+59 | FluxFM - Hippie Trippy Garden Pretty | http://streams.fluxfm.de/event02/mp3-320/radiode/
+60 | FluxFM - Hot R&B | http://streams.fluxfm.de/rnb/mp3-320/streams.fluxfm.de/
+61 | FluxFM - JaegerMusic Radio | http://streams.fluxfm.de/studio56/mp3-320/audio/
+62 | FluxFM - Jazzradio Schwarzenstein | http://streams.fluxfm.de/jazzschwarz/mp3-320/audio/
+63 | FluxFM - John Reed Radio | http://streams.fluxfm.de/john-reed/mp3-320/audio/
+64 | FluxFM - Klubradio | http://streams.fluxfm.de/klubradio/mp3-320/audio/
+65 | FluxFM - MetalFM | http://streams.fluxfm.de/metalfm/mp3-320/radiode/
+66 | FluxFM - Mini Flux | http://streams.fluxfm.de/kinder1/mp3-320/streams.fluxfm.de/
+67 | FluxFM - neoFM | http://streams.fluxfm.de/neofm/mp3-320/radiode/
+68 | FluxFM - Passport Approved | http://streams.fluxfm.de/passport/mp3-320/audio/
+69 | FluxFM - Pop Radio | http://streams.fluxfm.de/popradio/mp3-320/streams.fluxfm.de/
+70 | FluxFM - Rasta Radio | http://streams.fluxfm.de/rastaradio/mp3-320/streams.fluxfm.de/
+71 | FluxFM - Sound Of Berlin | http://streams.fluxfm.de/soundofberlin/mp3-320/audio/
+72 | FluxFM - Techno Underground | http://streams.fluxfm.de/technoug/mp3-320/audio/
+73 | FluxFM - XJAZZ | http://streams.fluxfm.de/xjazz/mp3-320/audio/
+74 | FluxFM - Yoga Sounds | http://streams.fluxfm.de/yogasounds/mp3-320/streams.fluxfm.de/
+75 | France Culture Live | http://direct.franceculture.fr/live/franceculture-midfi.mp3
+76 | France Inter Paris (FIP) | http://direct.fipradio.fr/live/fip-midfi.mp3
+77 | France Musique Classique Plus | http://direct.francemusique.fr/live/francemusiqueclassiqueplus-hifi.mp3
+78 | France Musique La Contemporaine | http://direct.francemusique.fr/live/francemusiquelacontemporaine-hifi.mp3
+79 | France Musique La Jazz | http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3
+80 | France Musique Live | http://direct.francemusique.fr/live/francemusique-midfi.mp3
+81 | frequence3 (FLAC) | http://hd.stream.frequence3.net/frequence3.flac
+82 | Hi On Line - Classical | http://mediaserv30.live-streams.nl:8088/live
+83 | Hi On Line - France | http://mediaserv21.live-streams.nl:8000/live
+84 | Hi On Line - Gold | http://mediaserv30.live-streams.nl:8000/live
+85 | Hi On Line - Jazz | http://mediaserv38.live-streams.nl:8006/live
+86 | Hi On Line - Latin | http://mediaserv33.live-streams.nl:8034/live
+87 | Hi On Line - Lounge | http://mediaserv33.live-streams.nl:8036/live
+88 | Hi On Line - Pop (320K) | http://mediaserv30.live-streams.nl:8086/live
+89 | Hi On Line - Pop (FLAC) | http://mscp2.live-streams.nl:8100/flac.flac
+90 | Hi On Line - World | http://mediaserv38.live-streams.nl:8027/live
+91 | Jazz FM | https://stream-al.planetradio.co.uk/jazzhigh.aac
+92 | Jazz24 | http://live.wostreaming.net/direct/ppm-jazz24aac256-ibc1
+93 | JB Radio2 (320K) | https://maggie.torontocast.com:8076/mp3
+94 | Kanal K | http://stream.kanalk.ch:80
+95 | KCMP 89.3 FM - The Current | http://current.stream.publicradio.org/kcmp.mp3
+96 | KDHX 88.1 FM St. Louis | http://kdhx-ice.streamguys1.com:80/live
+97 | KEXP 90.3 FM Seattle | http://live-aacplus-64.kexp.org/kexp64.aac
+98 | KMHD Portland FM 89.1 - Jazz | http://stream1.opb.org/kmhd.mp3
+99 | KUVO 89.3 FM Denver | http://kuvo-ice.streamguys.org/kuvo-aac-128
+100 | KUVO HD2 | http://kuvo-ice.streamguys.org/kuvohd2-aac-128
