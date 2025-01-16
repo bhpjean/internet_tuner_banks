@@ -1,7 +1,7 @@
-01|ZENO FM|https://stream-152.zeno.fm/sd01pm0h7zquv?zs=R_jHoZa-T8WpMUxsXy1XKA
-02|Virgin Classic Rock|http://icy.unitedradio.it/VirginRockClassics.mp3
-03|Easy Crooze|https://streaming.shoutcast.com/easy-crooze-aac
-04|Ambient Sleeping Pil|http://radio.stereoscenic.com/asp-h
+01|Virgin Classic Rock|http://icy.unitedradio.it/VirginRockClassics.mp3
+02|Easy Crooze|https://streaming.shoutcast.com/easy-crooze-aac
+03|Ambient Sleeping Pil|http://radio.stereoscenic.com/asp-h
+04|ZENO FM|https://stream-152.zeno.fm/sd01pm0h7zquv?zs=R_jHoZa-T8WpMUxsXy1XKA
 05|.977 80s|http://playerservices.streamtheworld.com/pls/977_80.pls
 06|.977 Country|http://26103.live.streamtheworld.com:80/977_COUNTRY_SC
 07|.977 The Mix|http://26153.live.streamtheworld.com:80/977_MIX_SC
