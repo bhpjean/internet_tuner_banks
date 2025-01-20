@@ -3,6 +3,7 @@
 003|Italo Dance         |http://radio.italodance.pl:7694
 004|Radio MBOX          |http://panel.radiombox.pl/radio/8040/GoldHits320kbps
 005|Radio Mirage        |http://s0.radiohost.pl:9569/;
+006|Radio 90            |https://srv0.streamradiowy.eu/radio90
 006|GAY FM              |http://icepool.silvacast.com/GAYFM.mp3
 007|Laserbeat FM        |http://stream.laut.fm/laserbeat-fm
 008|RMF FM              |http://195.150.20.7/rmf_fm
