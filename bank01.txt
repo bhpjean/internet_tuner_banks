@@ -89,6 +89,7 @@
 89|Radio RAM Wroclaw|http://stream4.nadaje.com:9220/ram.m3u
 90|Phever Media Live|http://uk1.internet-radio.com:8200/live
 91|Move Da House|http://uk7.internet-radio.com:8000/
+92|FluxFM - 80s|http://streams.fluxfm.de/80er/mp3-320/streams.fluxfm.de/
 92|Radio LEM FM|http://n13.radiojar.com/2fa0gbhr9bhvv
 93|Radio MRS|http://145.239.26.146:7494/;
 94|Laser Hot Hits Dance|http://e13484.cloudrad.io:8000/laserdancehq
