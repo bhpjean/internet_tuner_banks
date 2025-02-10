@@ -1,44 +1,44 @@
-﻿01|RMF FM                  |http://195.150.20.7/rmf_fm
-02|RMF 2 Pop               |http://195.150.20.7/rmf_2
-03|RMF 3 Pop-Rock          |http://195.150.20.7/rmf_3
-04|RMF 4 Dance & RNB       |http://195.150.20.7/rmf_4
-05|RMF 5 Lagodne Przeboje  |http://195.150.20.7/rmf_5
-06|RMF 24.pl               |http://195.150.20.7/rmf_24
-07|RMF 30 lat              |http://195.150.20.7/rmf_20lat
-08|RMF 10s                 |http://195.150.20.7/rmf_2010
-09|RMF 50s                 |http://195.150.20.7/rmf_50s
-10|RMF 60s                 |http://195.150.20.7/rmf_60s
-11|RMF 70s                 |http://195.150.20.7/rmf_70s
-12|RMF 70s Disco           |http://195.150.20.7/rmf_70s_disco
-13|RMF 80s                 |http://195.150.20.7/rmf_80s
-14|RMF 80s Disco           |http://195.150.20.7/rmf_80s_disco
-15|RMF 90s                  |http://195.150.20.7/rmf_90s
-16|RMF 90s Dance            |http://195.150.20.7/rmf_90s_dance
-17|RMF 2000                 |http://195.150.20.7/rmf_2000
-18|RMF Alternatywa          |http://195.150.20.7/rmf_alternatywa
-19|RMF Bajkowe Piosenki     |http://195.150.20.7/rmf_top_5_rock
-20|RMF Ballady              |http://195.150.20.7/rmf_nostalgia
-21|RMF Beatlemania          |http://195.150.20.7/rmf_beatlemania
-22|RMF Best Of RMFon        |http://195.150.20.7/best_of_rmfon
-23|RMF Blues                |http://195.150.20.7/rmf_blues
-24|RMF Bravo                |http://195.150.20.7/rmf_bravo
-25|RMF Celtic               |http://195.150.20.7/rmf_celtic
-26|RMF Chillout             |http://195.150.20.7/rmf_chillout
-27|RMF Chopin               |http://195.150.20.7/rmf_chopin
-28|RMF Classic              |http://195.150.20.7/rmf_classic
-29|RMF Classic Rock         |http://195.150.20.7/rmf_classic_rock_vt
-30|RMF Club                 |http://195.150.20.7/rmf_club
-31|RMF Cuba                 |http://195.150.20.7/rmf_cuba
-32|RMF Dance                |http://195.150.20.7/rmf_dance
-33|RMF Depeche Mode         |http://195.150.20.7/rmf_depeche_mode
-34|RMF Disco                |http://195.150.20.7/rmf_disco
-35|RMF Disco Polo           |http://195.150.20.7/rmf_disco_polo_vt
-36|RMF Dla Dzieci           |http://195.150.20.7/rmf_baby
-37|RMF Fitness              |http://195.150.20.7/rmf_fitness
-38|RMF Fitness Rock         |http://195.150.20.7/rmf_fitness_rock
-39|RMF Francais             |http://195.150.20.7/rmf_francais
-40|RMF Fresh 2021           |http://195.150.20.7/rmf_top
-41|RMF Funk                 |http://195.150.20.7/rmf_funk
+﻿01|RMF FM                  |http://195.150.20.242:8000/rmf_fm
+02|RMF 2 Pop               |http://195.150.20.242:8000/rmf_2
+03|RMF 3 Pop-Rock          |http://195.150.20.242:8000/rmf_3
+04|RMF 4 Dance & RNB       |http://195.150.20.242:8000/rmf_4
+05|RMF 5 Lagodne Przeboje  |http://195.150.20.242:8000/rmf_5
+06|RMF 24.pl               |http://195.150.20.242:8000/rmf_24
+07|RMF 30 lat              |http://195.150.20.242:8000/rmf_20lat
+08|RMF 10s                 |http://195.150.20.242:8000/rmf_2010
+09|RMF 50s                 |http://195.150.20.242:8000/rmf_50s
+10|RMF 60s                 |http://195.150.20.242:8000/rmf_60s
+11|RMF 70s                 |http://195.150.20.242:8000/rmf_70s
+12|RMF 70s Disco           |http://195.150.20.242:8000/rmf_70s_disco
+13|RMF 80s                 |http://195.150.20.242:8000/rmf_80s
+14|RMF 80s Disco           |http://195.150.20.242:8000/rmf_80s_disco
+15|RMF 90s                  |http://195.150.20.242:8000/rmf_90s
+16|RMF 90s Dance            |http://195.150.20.242:8000/rmf_90s_dance
+17|RMF 2000                 |http://195.150.20.242:8000/rmf_2000
+18|RMF Alternatywa          |http://195.150.20.242:8000/rmf_alternatywa
+19|RMF Bajkowe Piosenki     |http://195.150.20.242:8000/rmf_top_5_rock
+20|RMF Ballady              |http://195.150.20.242:8000/rmf_nostalgia
+21|RMF Beatlemania          |http://195.150.20.242:8000/rmf_beatlemania
+22|RMF Best Of RMFon        |http://195.150.20.242:8000/best_of_rmfon
+23|RMF Blues                |http://195.150.20.242:8000/rmf_blues
+24|RMF Bravo                |http://195.150.20.242:8000/rmf_bravo
+25|RMF Celtic               |http://195.150.20.242:8000/rmf_celtic
+26|RMF Chillout             |http://195.150.20.242:8000/rmf_chillout
+27|RMF Chopin               |http://195.150.20.242:8000/rmf_chopin
+28|RMF Classic              |http://195.150.20.242:8000/rmf_classic
+29|RMF Classic Rock         |http://195.150.20.242:8000/rmf_classic_rock_vt
+30|RMF Club                 |http://195.150.20.242:8000/rmf_club
+31|RMF Cuba                 |http://195.150.20.242:8000/rmf_cuba
+32|RMF Dance                |http://195.150.20.242:8000/rmf_dance
+33|RMF Depeche Mode         |http://195.150.20.242:8000/rmf_depeche_mode
+34|RMF Disco                |http://195.150.20.242:8000/rmf_disco
+35|RMF Disco Polo           |http://195.150.20.242:8000/rmf_disco_polo_vt
+36|RMF Dla Dzieci           |http://195.150.20.242:8000/rmf_baby
+37|RMF Fitness              |http://195.150.20.242:8000/rmf_fitness
+38|RMF Fitness Rock         |http://195.150.20.242:8000/rmf_fitness_rock
+39|RMF Francais             |http://195.150.20.242:8000/rmf_francais
+40|RMF Fresh 2021           |http://195.150.20.242:8000/rmf_top
+41|RMF Funk                 |http://195.150.20.242:8000/rmf_funk
 42|RMF Game Music           |http://195.150.20.7/rmf_gamemusic
 43|RMF Gold                 |http://195.150.20.7/rmf_gold
 44|RMF Grunge               |http://195.150.20.7/rmf_grunge
