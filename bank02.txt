@@ -91,8 +91,5 @@
 91|RMF Trend Sounds         |http://195.150.20.242:8000/rmf_trend_sounds
 92|RMF W Pracy              |http://195.150.20.242:8000/rmf_w_pracy
 93|RMF Wakacyjne Top 100    |http://195.150.20.242:8000/rmf_top4
-94|Radiofonia               |http://195.150.20.242:8000/radiofonia
-95|Radio Gra - Toruń        |http://195.150.20.242:8000/radio_gra
-96|Radio Gra - Wroclaw      |http://195.150.20.242:8000/radio_gra_wroc
-97|Radio GRA Torun          |http://217.74.72.12/radio_gra
-98|Radio GRA Wroclaw        |http://195.150.20.4/radio_gra_wroc
+94|Radio Gra - Toruń        |http://195.150.20.242:8000/radio_gra
+95|Radio Gra - Wroclaw      |http://195.150.20.242:8000/radio_gra_wroc
