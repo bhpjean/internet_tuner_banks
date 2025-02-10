@@ -39,60 +39,60 @@
 39|RMF Francais             |http://195.150.20.242:8000/rmf_francais
 40|RMF Fresh 2021           |http://195.150.20.242:8000/rmf_top
 41|RMF Funk                 |http://195.150.20.242:8000/rmf_funk
-42|RMF Game Music           |http://195.150.20.7/rmf_gamemusic
-43|RMF Gold                 |http://195.150.20.7/rmf_gold
-44|RMF Grunge               |http://195.150.20.7/rmf_grunge
-45|RMF Hard & Heavy         |http://195.150.20.7/rmf_hard_heavy
-46|RMF Hip Hop              |http://195.150.20.7/rmf_hip_hop
-47|RMF Hity Wakacji 2021    |http://195.150.20.7/rmf_top3
-48|RMF Hot New              |http://195.150.20.7/rmf_hot_new
-49|RMF Koledy               |http://195.150.20.7/rmf_koledy
-50|RMF Lady Pank            |http://195.150.20.7/rmf_lady_pank
-51|RMF Latino               |http://195.150.20.7/rmf_latino
-52|RMF Love                 |http://195.150.20.7/rmf_love
-53|RMF Maxxx                |http://195.150.20.7/rmf_maxxx
-54|RMF Maxxx Hop-Bęc        |http://195.150.20.7/rmf_hop_bec
-55|RMF Michael Jackson      |http://195.150.20.7/rmf_Michael_Jackson
-56|RMF Muzyka Filmowa       |http://195.150.20.7/rmf_muzyka_filmowa
-57|RMF Muzyka Klasyczna     |http://195.150.20.7/rmf_muzyka_klasyczna
-58|RMF Naj Polskie Przeboje |http://195.150.20.7/npp_rmf_on
-59|RMF Niezapomniane Melodie|http://195.150.20.7/rmf_niezapomniane_melodie
-60|RMF Party                |http://195.150.20.7/rmf_party
-61|RMF Piosenka Filmowa     |http://195.150.20.7/rmf_piosenka_filmowa
-62|RMF Piosenka Literacka   |http://195.150.20.7/rmf_piosenka_literacka
-63|RMF Pobudka              |http://195.150.20.7/rmf_pobudka
-64|RMF Polska Prywatka      |http://195.150.20.7/rmf_polska_prywatka
-65|RMF Polski Hip Hop       |http://195.150.20.7/rmf_ziom
-66|RMF Polski Rock          |http://195.150.20.7/rmf_polski_rock
-67|RMF Polskie Przeboje     |http://195.150.20.7/rmf_polskie_przeboje
-68|RMF Poplista             |http://195.150.20.7/rmf_poplista
-69|RMF PRL                  |http://195.150.20.7/rmf_prl
-70|RMF Przeboj Roku 2021    |http://195.150.20.7/rmf_przeboj_roku
-71|RMF Queen                |http://195.150.20.7/rmf_queen
-72|RMF R&B                  |http://195.150.20.7/rmf_rnb
-73|RMF Reggae               |http://195.150.20.7/rmf_reggae
-74|RMF Relaks               |http://195.150.20.7/rmf_relaks
-75|RMF Rock                 |http://195.150.20.7/rmf_rock
-76|RMF Rock Progresywny     |http://195.150.20.7/rmf_rock_progresywny
-77|RMF Sloneczne Przeboje   |http://195.150.20.7/rmf_sloneczne_przeboje
-78|RMF Smooth Jazz          |http://195.150.20.7/rmf_smooth_jazz
-79|RMF Studencka Impreza    |http://195.150.20.7/rmf_studencka_impreza
-80|RMF Styl                 |http://195.150.20.7/rmf_styl
-81|RMF Szanty               |http://195.150.20.7/rmf_szanty
-82|RMF Swiateczne Nowosci   |http://195.150.20.7/rmf_top5
-83|RMF swięta               |http://195.150.20.7/rmf_swieta
-84|RMF Teen                 |http://195.150.20.7/rmf_groove
-85|RMF Top 30 Dance         |http://195.150.20.7/rmf_top_5_dance
-86|RMF Top 30 Disco Polo    |http://195.150.20.7/rmf_top_5_rnb
-87|RMF Top 30 PL            |http://195.150.20.7/rmf_top_5_pl
-88|RMF Top 30 Pop           |http://195.150.20.7/rmf_top_5_pop
-89|RMF Top 30 swięta        |http://195.150.20.7/rmf_top_30_swieta
-90|RMF Top 2021 Disco polo  |http://195.150.20.7/rmf_top2
-91|RMF Trend Sounds         |http://195.150.20.7/rmf_trend_sounds
-92|RMF W Pracy              |http://195.150.20.7/rmf_w_pracy
-93|RMF Wakacyjne Top 100    |http://195.150.20.7/rmf_top4
-94|Radiofonia               |http://195.150.20.7/radiofonia
-95|Radio Gra - Toruń        |http://195.150.20.7/radio_gra
-96|Radio Gra - Wroclaw      |http://195.150.20.7/radio_gra_wroc
+42|RMF Game Music           |http://195.150.20.242:8000/rmf_gamemusic
+43|RMF Gold                 |http://195.150.20.242:8000/rmf_gold
+44|RMF Grunge               |http://195.150.20.242:8000/rmf_grunge
+45|RMF Hard & Heavy         |http://195.150.20.242:8000/rmf_hard_heavy
+46|RMF Hip Hop              |http://195.150.20.242:8000/rmf_hip_hop
+47|RMF Hity Wakacji 2021    |http://195.150.20.242:8000/rmf_top3
+48|RMF Hot New              |http://195.150.20.242:8000/rmf_hot_new
+49|RMF Koledy               |http://195.150.20.242:8000/rmf_koledy
+50|RMF Lady Pank            |http://195.150.20.242:8000/rmf_lady_pank
+51|RMF Latino               |http://195.150.20.242:8000/rmf_latino
+52|RMF Love                 |http://195.150.20.242:8000/rmf_love
+53|RMF Maxxx                |http://195.150.20.242:8000/rmf_maxxx
+54|RMF Maxxx Hop-Bęc        |http://195.150.20.242:8000/rmf_hop_bec
+55|RMF Michael Jackson      |http://195.150.20.242:8000/rmf_Michael_Jackson
+56|RMF Muzyka Filmowa       |http://195.150.20.242:8000/rmf_muzyka_filmowa
+57|RMF Muzyka Klasyczna     |http://195.150.20.242:8000/rmf_muzyka_klasyczna
+58|RMF Naj Polskie Przeboje |http://195.150.20.242:8000/npp_rmf_on
+59|RMF Niezapomniane Melodie|http://195.150.20.242:8000/rmf_niezapomniane_melodie
+60|RMF Party                |http://195.150.20.242:8000/rmf_party
+61|RMF Piosenka Filmowa     |http://195.150.20.242:8000/rmf_piosenka_filmowa
+62|RMF Piosenka Literacka   |http://195.150.20.242:8000/rmf_piosenka_literacka
+63|RMF Pobudka              |http://195.150.20.242:8000/rmf_pobudka
+64|RMF Polska Prywatka      |http://195.150.20.242:8000/rmf_polska_prywatka
+65|RMF Polski Hip Hop       |http://195.150.20.242:8000/rmf_ziom
+66|RMF Polski Rock          |http://195.150.20.242:8000/rmf_polski_rock
+67|RMF Polskie Przeboje     |http://195.150.20.242:8000/rmf_polskie_przeboje
+68|RMF Poplista             |http://195.150.20.242:8000/rmf_poplista
+69|RMF PRL                  |http://195.150.20.242:8000/rmf_prl
+70|RMF Przeboj Roku 2021    |http://195.150.20.242:8000/rmf_przeboj_roku
+71|RMF Queen                |http://195.150.20.242:8000/rmf_queen
+72|RMF R&B                  |http://195.150.20.242:8000/rmf_rnb
+73|RMF Reggae               |http://195.150.20.242:8000/rmf_reggae
+74|RMF Relaks               |http://195.150.20.242:8000/rmf_relaks
+75|RMF Rock                 |http://195.150.20.242:8000/rmf_rock
+76|RMF Rock Progresywny     |http://195.150.20.242:8000/rmf_rock_progresywny
+77|RMF Sloneczne Przeboje   |http://195.150.20.242:8000/rmf_sloneczne_przeboje
+78|RMF Smooth Jazz          |http://195.150.20.242:8000/rmf_smooth_jazz
+79|RMF Studencka Impreza    |http://195.150.20.242:8000/rmf_studencka_impreza
+80|RMF Styl                 |http://195.150.20.242:8000/rmf_styl
+81|RMF Szanty               |http://195.150.20.242:8000/rmf_szanty
+82|RMF Swiateczne Nowosci   |http://195.150.20.242:8000/rmf_top5
+83|RMF swięta               |http://195.150.20.242:8000/rmf_swieta
+84|RMF Teen                 |http://195.150.20.242:8000/rmf_groove
+85|RMF Top 30 Dance         |http://195.150.20.242:8000/rmf_top_5_dance
+86|RMF Top 30 Disco Polo    |http://195.150.20.242:8000/rmf_top_5_rnb
+87|RMF Top 30 PL            |http://195.150.20.242:8000/rmf_top_5_pl
+88|RMF Top 30 Pop           |http://195.150.20.242:8000/rmf_top_5_pop
+89|RMF Top 30 swięta        |http://195.150.20.242:8000/rmf_top_30_swieta
+90|RMF Top 2021 Disco polo  |http://195.150.20.242:8000/rmf_top2
+91|RMF Trend Sounds         |http://195.150.20.242:8000/rmf_trend_sounds
+92|RMF W Pracy              |http://195.150.20.242:8000/rmf_w_pracy
+93|RMF Wakacyjne Top 100    |http://195.150.20.242:8000/rmf_top4
+94|Radiofonia               |http://195.150.20.242:8000/radiofonia
+95|Radio Gra - Toruń        |http://195.150.20.242:8000/radio_gra
+96|Radio Gra - Wroclaw      |http://195.150.20.242:8000/radio_gra_wroc
 97|Radio GRA Torun          |http://217.74.72.12/radio_gra
 98|Radio GRA Wroclaw        |http://195.150.20.4/radio_gra_wroc
