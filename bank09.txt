@@ -40,7 +40,7 @@
 040|Radio Muzo.fm|https://stream.rcs.revma.com/1nnezw8qz7zuv
 041|4FUN Radio|http://stream.open.fm/173
 042|WP Radio: muzyka i informacje|http://stream.open.fm/367
-043|OPEN FM #popularne|http://stream.open.fm/10
+043|OPEN FM #popularne|https://getradio.reconv.pl/openfm?s=popularne
 044|OPEN FM 00s Hits|http://stream.open.fm/72
 045|OPEN FM 10s Hits|http://stream.open.fm/352
 046|OPEN FM 80s Hits|http://stream.open.fm/3
