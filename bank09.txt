@@ -39,62 +39,62 @@
 039|Radio Musicmania|https://s3.slotex.pl/shoutcast/7774/stream
 040|Radio Muzo.fm|https://stream.rcs.revma.com/1nnezw8qz7zuv
 041|4FUN Radio|http://stream.open.fm/173
-042|WP Radio: muzyka i informacje|http://stream.open.fm/367
-043|OPEN FM #popularne|https://getradio.reconv.pl/openfm?s=popularne
-044|OPEN FM 00s Hits|http://stream.open.fm/72
-045|OPEN FM 10s Hits|http://stream.open.fm/352
-046|OPEN FM 80s Hits|http://stream.open.fm/3
-047|OPEN FM 90s Hits|http://stream.open.fm/14
-048|OPEN FM 100% Hits|http://stream.open.fm/64
-049|OPEN FM 500 Alternative Hits|http://stream.open.fm/55
-050|OPEN FM 500 Electronic Hits|http://stream.open.fm/94
-051|OPEN FM 500 Heavy Hits|http://stream.open.fm/54
-052|OPEN FM 500 Hip-Hop Hits|http://stream.open.fm/84
-053|OPEN FM 500 Party Hits|http://stream.open.fm/81
-054|OPEN FM 500 R'n'B Hits|http://stream.open.fm/26
-055|OPEN FM 500 Reggae Hits|http://stream.open.fm/30
-056|OPEN FM 500 Rock Hits|http://stream.open.fm/82
-057|OPEN FM 1001 Hits|http://stream.open.fm/11
-058|OPEN FM Alt Cafe|http://stream.open.fm/34
-059|OPEN FM Alt Classic|http://stream.open.fm/43
-060|OPEN FM Alt Club|http://stream.open.fm/9
-061|OPEN FM Alt Freszzz|http://stream.open.fm/6
-062|OPEN FM Alt PL|http://stream.open.fm/36
-063|OPEN FM American Rock|http://stream.open.fm/40
-064|OPEN FM Ballady Wszech Czasow|http://stream.open.fm/20
-065|OPEN FM Beats & Bass|http://stream.open.fm/106
-066|OPEN FM Bieganie|http://stream.open.fm/116
-067|OPEN FM Biesiada|http://stream.open.fm/59
-068|OPEN FM Biesiada sląska|http://stream.open.fm/66
-069|OPEN FM Cardio|http://stream.open.fm/141
-070|OPEN FM Chillout|http://stream.open.fm/33
-071|OPEN FM Ciężkie Brzmienia|http://stream.open.fm/13
-072|OPEN FM Classic Hits|http://stream.open.fm/46
-073|OPEN FM Classic Metal|http://stream.open.fm/108
-074|OPEN FM Classic Party|http://stream.open.fm/50
-075|OPEN FM Classic Rock|http://stream.open.fm/32
-076|OPEN FM Crema Cafe|http://stream.open.fm/76
-077|OPEN FM Dance|http://stream.open.fm/31
-078|OPEN FM Disco Polo|http://stream.open.fm/21
-079|OPEN FM Disco Polo Classic|http://stream.open.fm/49
-080|OPEN FM Disco Polo Freszzz|http://stream.open.fm/57
-081|OPEN FM Do Auta Club|http://stream.open.fm/114
-082|OPEN FM Do Auta Rock|http://stream.open.fm/113
-083|OPEN FM Dobranoc|http://stream.open.fm/74
-084|OPEN FM DubStep|http://stream.open.fm/68
-085|OPEN FM Drum'n'Bass|http://stream.open.fm/41
-086|OPEN FM Dzień Dobry!|http://stream.open.fm/69
-087|OPEN FM EDM Anthems|http://stream.open.fm/361
-088|OPEN FM Fitness|http://stream.open.fm/65
-089|OPEN FM Freszzz: Zima|http://stream.open.fm/39
-090|OPEN FM Giganci Rocka|http://stream.open.fm/118
-091|OPEN FM Girl Power!|http://stream.open.fm/364
-092|OPEN FM Grunge|http://stream.open.fm/157
-093|OPEN FM Gwiazdy|http://stream.open.fm/58
-094|OPEN FM Happy|http://stream.open.fm/120
-095|OPEN FM Hip-Hop Freszzz|http://stream.open.fm/93
-096|OPEN FM Hip-Hop Klasyk|http://stream.open.fm/107
-097|OPEN FM Hip-Hop PL|http://stream.open.fm/24
-098|OPEN FM Hip Hop Ulica|http://stream.open.fm/92
-099|OPEN FM Hip-Hop USA|http://stream.open.fm/23
-100|OPEN FM Hity Na Grilla|http://stream.open.fm/146
+042|WP Radio muzyka i informacje|http://stream.open.fm/367
+043|OPEN FM Impreza|https://getradio.reconv.pl/openfm?s=impreza
+044|OPEN FM Hip-Hop|https://getradio.reconv.pl/openfm?s=hip-hop-usa
+045|OPEN FM 100% Hits|https://getradio.reconv.pl/openfm?s=100-hits
+046|OPEN FM Na pełnej|https://getradio.reconv.pl/openfm?s=edm-anthems
+047|OPEN FM Biesiada Śląska|https://getradio.reconv.pl/openfm?s=biesiada-slaska
+048|OPEN FM Vixa|https://getradio.reconv.pl/openfm?s=vixa
+049|OPEN FM Dance|https://getradio.reconv.pl/openfm?s=dance
+050|OPEN FM Rock Na Caly Dzien|https://getradio.reconv.pl/openfm?s=rock-na-caly-dzien
+051|OPEN FM Trap PL|https://getradio.reconv.pl/openfm?s=trap-pl
+052|OPEN FM Po Polsku|https://getradio.reconv.pl/openfm?s=po-polsku
+053|OPEN FM To Jest Hip-Hop|https://getradio.reconv.pl/openfm?s=to-jest-hip-hop
+054|OPEN FM Trening|https://getradio.reconv.pl/openfm?s=trening
+055|OPEN FM 500 Party Hits|https://getradio.reconv.pl/openfm?s=500-party-hits
+056|OPEN FM Szanty|https://getradio.reconv.pl/openfm?s=szanty
+057|OPEN FM 10s Hits|https://getradio.reconv.pl/openfm?s=10s-hits
+058|OPEN FM Impreza PL|https://getradio.reconv.pl/openfm?s=impreza-pl
+059|OPEN FM Hip-Hop Klasyk|https://getradio.reconv.pl/openfm?s=hip-hop-klasyk
+060|OPEN FM Ballady Wszech Czasów|https://getradio.reconv.pl/openfm?s=ballady-wszech-czasow
+061|OPEN FM Hip-Hop Freszzz|https://getradio.reconv.pl/openfm?s=hip-hop-freszzz
+062|OPEN FM House|https://getradio.reconv.pl/openfm?s=house
+063|OPEN FM W Podróży|https://getradio.reconv.pl/openfm?s=w-podrozy
+064|OPEN FM Disco Polo Classic|https://getradio.reconv.pl/openfm?s=disco-polo-classic
+065|OPEN FM Hip-Hop PL|https://getradio.reconv.pl/openfm?s=hip-hop-pl
+066|OPEN FM Trance|https://getradio.reconv.pl/openfm?s=trance
+067|OPEN FM 80s Hits|https://getradio.reconv.pl/openfm?s=80s-hits
+068|OPEN FM Hity Disco Polo|https://getradio.reconv.pl/openfm?s=hity-disco-polo
+069|OPEN FM Tylko Polskie Przeboje|https://getradio.reconv.pl/openfm?s=tylko-polskie-przeboje
+070|OPEN FM Weekend Hits|https://getradio.reconv.pl/openfm?s=weekend-hits
+071|OPEN FM W Domu|https://getradio.reconv.pl/openfm?s=w-domu
+072|OPEN FM Top Wszech Czasów - Hip-Hop PL|https://getradio.reconv.pl/openfm?s=top-wszech-czasow-hip-hop-pl
+073|OPEN FM #popularne|https://getradio.reconv.pl/openfm?s=popularne
+074|OPEN FM Ladies Party|https://getradio.reconv.pl/openfm?s=ladies-party
+075|OPEN FM Hity lat 2000|https://getradio.reconv.pl/openfm?s=00s-hits
+076|OPEN FM Po Polsku 60s & 70s|https://getradio.reconv.pl/openfm?s=po-polsku-60-70
+077|OPEN FM Pop Na Cały Dzień|https://getradio.reconv.pl/openfm?s=pop-na-caly-dzien
+078|OPEN FM Największe Przeboje XX w|https://getradio.reconv.pl/openfm?s=najwieksze-przeboje-xx-w
+079|OPEN FM Dobranoc|https://getradio.reconv.pl/openfm?s=dobranoc
+080|OPEN FM Klub 90s|https://getradio.reconv.pl/openfm?s=klub-90
+081|OPEN FM Po Polsku 90s|https://getradio.reconv.pl/openfm?s=po-polsku-90
+082|OPEN FM Kołysanki|https://getradio.reconv.pl/openfm?s=kolysanki
+083|OPEN FM Weekend Chill|https://getradio.reconv.pl/openfm?s=weekend-chill
+084|OPEN FM Top 2025 Hits|https://getradio.reconv.pl/openfm?s=top-hits
+085|OPEN FM Top Wszech Czasów - Polska|https://getradio.reconv.pl/openfm?s=top-wszech-czasow-polska
+086|OPEN FM Freszzz|https://getradio.reconv.pl/openfm?s=freszzz
+087|OPEN FM Disco Polo Nowości 2025|https://getradio.reconv.pl/openfm?s=disco-polo-freszzz
+088|OPEN FM Top Wszech Czasów - Świat|https://getradio.reconv.pl/openfm?s=top-wszech-czasow-swiat
+089|OPEN FM Hip-Hop Ulica|https://getradio.reconv.pl/openfm?s=hip-hop-ulica
+090|OPEN FM 1001 Hits|https://getradio.reconv.pl/openfm?s=1001-hits
+091|OPEN FM Radio ZET|https://getradio.reconv.pl/openfm?s=radio-zet
+092|OPEN FM Radio Nowy Świat|https://getradio.reconv.pl/openfm?s=radio-nowy-swiat
+093|OPEN FM Biesiada|https://getradio.reconv.pl/openfm?s=biesiada
+094|OPEN FM 500 Hip-Hop Hits|https://getradio.reconv.pl/openfm?s=500-hip-hop-hits
+095|OPEN FM Polskie Radio 24|https://getradio.reconv.pl/openfm?s=polskie-radio-24
+096|OPEN FM Classic Hits|https://getradio.reconv.pl/openfm?s=classic-hits
+097|OPEN FM Dubstep|https://getradio.reconv.pl/openfm?s=dubstep
+098|OPEN FM 90s Hits|https://getradio.reconv.pl/openfm?s=90s-hits
+099|OPEN FM Polo & Dance|https://getradio.reconv.pl/openfm?s=polo-dance
+100|OPEN FM Przeboje Na Cały Dzień|https://getradio.reconv.pl/openfm?s=przeboje-na-caly-dzien
