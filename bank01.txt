@@ -96,3 +96,4 @@
 96|Laser Hot Hits Dance|http://e13484.cloudrad.io:8000/laserdancehq
 97|Energy 106 Belfast|http://192.111.140.6:9633/stream
 98|Radio DiscoParty.pl|http://145.239.26.146:7432/;
+99|Radio Bemowo|http://s26.myradiostream.com:21040/stream
