@@ -13,7 +13,7 @@
 13|Radio Nowy Swiat|http://stream.rcs.revma.com/4md4m0a0fs8uv
 14|Radio ZET|http://www.emsoft.ct8.pl/inne/zet.m3u
 15|Radio ESKA|http://ic1.smcdn.pl/2380-1.mp3
-16|Radio Wnet|http://audio.radiownet.pl:8000/stream
+16|Radio Wnet|http://stream2.technologicznie.net/wnet.fm
 17|Radio ESKA Rock|http://ic1.smcdn.pl/5380-1.mp3
 18|Radio Pasja Glowny|http://91.232.4.33:8049/stream2
 19|Radio Pasja POP|http://91.232.4.33:8084/stream2
