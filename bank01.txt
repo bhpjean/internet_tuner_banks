@@ -46,7 +46,7 @@
 46|Twoje Radio AM|http://s1.slotex.pl:7424/;
 47|Radio Bialystok|http://stream4.nadaje.com:15476/radiobialystok
 48|Radio Pogoda|http://stream10.radioagora.pl:80/tuba143-1.mp3
-49|Radio Weekend|http://stream.weekendfm.pl:8000/weekendfm_najlepsza.mp3
+49|Radio Weekend|https://stream.rcs.revma.com/vw8w2zwpsy3vv
 50|Radio Jura|http://streams2.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
 51|Radio FIAT|http://stream2.nadaje.com:8056/;
 52|Bayer FM|https://streaming.radio5.com.pl:8888/bayerfm
