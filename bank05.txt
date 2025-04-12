@@ -89,12 +89,11 @@
 089|Radio Unidisco      |https://broadcast.miami/proxy/unidisco?mp=/stream/;
 090|ROKS Classic Rock   |https://online.radioroks.ua/RadioROKS_ClassicRock_HD
 091|Caprice-Classic Rock|http://79.120.77.11:8000/rock.m3u
-092|RDMIX CLASSIC ROCK  |https://giorgia.radiobellissima.it:8210/radio.mp3
-093|Zeppelin|https://radiostreaming.ert.gr/ert-zeppelin
-094|Radio Motown|http://54.36.165.156:8630/stream
-095|Mega Radio|https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
-096|VOX FM |http://ic1.smcdn.pl/3990-1.mp3
-097|VOX FM HIT 22|http://ic1.smcdn.pl/6020-1.mp3
-098|VOX FM DISCO PARTY|http://ic1.smcdn.pl/6180-1.mp3
-099|VOX FM DISCO 90|http://ic1.smcdn.pl/6170-1.mp3
-100|VOX FM BEST LISTA|http://ic1.smcdn.pl/6100-1.mp3
+092|Zeppelin|https://radiostreaming.ert.gr/ert-zeppelin
+093|Radio Motown|http://54.36.165.156:8630/stream
+094|Mega Radio|https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
+095|VOX FM |http://ic1.smcdn.pl/3990-1.mp3
+096|VOX FM HIT 22|http://ic1.smcdn.pl/6020-1.mp3
+097|VOX FM DISCO PARTY|http://ic1.smcdn.pl/6180-1.mp3
+098|VOX FM DISCO 90|http://ic1.smcdn.pl/6170-1.mp3
+099|VOX FM BEST LISTA|http://ic1.smcdn.pl/6100-1.mp3
