@@ -97,4 +97,3 @@
 097|OPEN FM Radio Kolor|https://getradio.reconv.pl/openfm?s=radio-kolor
 098|OPEN FM Radio Rockserwis FM|https://getradio.reconv.pl/openfm?s=radio-rockserwis-fm
 099|OPEN FM Akademickie Radio Luz|https://getradio.reconv.pl/openfm?s=akademickie-radio-luz
-100|OPEN FM Radio Centrum (Lublin)|https://getradio.reconv.pl/openfm?s=radio-centrum-lublin
