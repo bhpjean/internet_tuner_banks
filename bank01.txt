@@ -69,7 +69,7 @@
 69|Konin FM|http://stream2.technologicznie.net:80/konin.fm
 70|Radio Koszalin|http://91.232.4.33:9680/stream
 71|Off Radio Krakow|http://stream4.nadaje.com:13332/offradiokrakow
-72|Radio Q|http://37.130.30.166:8020/;
+72|Radio Q|http://79.188.161.82:8020/;stream.mp3
 73|Radio Lodz|http://217.113.224.171/RadioLodz-1.mp3
 74|Radio Lodz Extra|http://217.113.224.171:80/RadioLodz-2-HQ.aac
 75|Radio Parada|http://stream4.nadaje.com:15274/live
