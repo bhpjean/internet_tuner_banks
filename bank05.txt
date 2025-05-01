@@ -30,11 +30,6 @@
 030|Radio Derf Jazz|http://178.19.96.111:8005
 031|Radio Derf Polski blues|http://178.19.96.111:8026
 032|Radio Derf Soul|http://178.19.96.111:8018
-033|FTB.net-Club|http://play.radioftb.net:8000
-034|FTB.net-Disco Polo|http://play.radioftb.net:8022
-035|FTB.net-Flash FM|http://play.radioftb.net:8008
-036|FTB.net-Rap Music|http://play.radioftb.net:8028
-037|FTB.net-Retro DJ|http://play.radioftb.net:8016
 038|InterStacja|http://4stream.pl:18322
 039|InterStacja Club|http://4stream.pl:18268
 040|InterStacja Disco Polo|http://4stream.pl:18274
