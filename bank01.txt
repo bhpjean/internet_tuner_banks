@@ -70,7 +70,7 @@
 70|Radio Koszalin|http://91.232.4.33:9680/stream
 71|Off Radio Krakow|http://stream4.nadaje.com:13332/offradiokrakow
 72|Radio Q|http://79.188.161.82:8020/;stream.mp3
-73|Radio Janosik|https://n20a-eu.rcs.revma.com/7vhveccrnquvv
+73|Radio Yanosik|https://n20a-eu.rcs.revma.com/7vhveccrnquvv
 74|Radio Lodz|http://217.113.224.171:80/RadioLodz-2-HQ.aac
 75|Radio Parada|http://stream4.nadaje.com:15274/live
 76|Radio Malbork|http://stream3.nadaje.com:9022/
