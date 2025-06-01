@@ -91,6 +91,6 @@
 91|Intense Radio - We love Dance|http://intenseradio.live-streams.nl:8000/main
 92|Cyberpunk|http://79.120.12.130:8000/cyberpunk
 93|CYBERStacja|https://sc.cyberstacja.pl:8000/radio.mp3
-94|TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS|https://rautemusik.stream25.radiohost.de/breakz?ref=radiobrowser-top100-djcharts&upd-meta=0&upd-scheme=https&_art=dD0xNzQ4Nzk4NjQxJmQ9OGJiY2U2NjI5OGZkZmJlNDg0OTc
+94|TOP 100 DJ CHARTS|https://rautemusik.stream25.radiohost.de/breakz?ref=radiobrowser-top100-djcharts&upd-meta=0&upd-scheme=https&_art=dD0xNzQ4Nzk4NjQxJmQ9OGJiY2U2NjI5OGZkZmJlNDg0OTc
 95|1000 ELECTRONIC DANCE MUSIC|http://1000-electronic-dance-music.stream.laut.fm/1000-electronic-dance-music?t302=2025-06-01_17-40-16&uuid=794926c7-17a9-4bb5-929b-2a5197bc052c
 96|Electronica Vibes - Pirate Radio GR|https://live.piratefm.net/electronica_vibes
