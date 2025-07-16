@@ -1,6 +1,6 @@
 ﻿01|Polskie Radio Jedynka|http://stream3.polskieradio.pl:8950
 02|Polskie Radio Dwojka|http://stream3.polskieradio.pl:8952
-03|Polskie Radio Trojka|http://stream3.polskieradio.pl:8954
+03|Polskie Radio Trojka|http://mp3.polskieradio.pl:8904/;.mp3
 04|Polskie Radio Czworka|http://stream3.polskieradio.pl:8956
 05|Polskie Radio Chopin|http://stream3.polskieradio.pl:8960
 06|Polskie Radio Dzieciom|http://stream3.polskieradio.pl:8966
