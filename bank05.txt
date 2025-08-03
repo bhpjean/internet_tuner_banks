@@ -1,7 +1,7 @@
-﻿001|90s90s Dance|https://streams.90s90s.de/eurodance/mp3-192/
-002|90s90s Grunge       |https://streams.90s90s.de/grunge/mp3-192/liveradio/
-003|90s90s Hits          |https://streams.90s90s.de/pop/mp3-192/
-004|90s90s The BEAT      |https://streams.90s90s.de/main/mp3-192/
+﻿001|90s90s Dance|http://streams.90s90s.de/eurodance/mp3-192/
+002|90s90s Grunge|http://streams.90s90s.de/grunge/mp3-192/liveradio/
+003|90s90s Hits|http://streams.90s90s.de/pop/mp3-192/
+004|90s90s The BEAT|http://streams.90s90s.de/main/mp3-192/
 005|Oxygen Classic Rock |https://oxygenmusic.hu:8443/oxygenclassicrock
 006|Rock Replay Radio   |http://strm112.1.fm/crock_mobile_mp3
 007|Classic Rock California|https://broadcast.shoutstream.co.uk/stream/8014
@@ -92,3 +92,4 @@
 097|VOX FM DISCO PARTY|http://ic1.smcdn.pl/6180-1.mp3
 098|VOX FM DISCO 90|http://ic1.smcdn.pl/6170-1.mp3
 099|VOX FM BEST LISTA|http://ic1.smcdn.pl/6100-1.mp3
+
