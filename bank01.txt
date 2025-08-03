@@ -1,6 +1,6 @@
 1|Italo 4 You|http://s0.radiohost.pl:8018/stream
 2|Top 80|https://top80.pl:8000/listen.mp3
-3|Italo Dance|http://radio.italodance.pl:7694
+98|RMI-Italo Disco Classic|http://cast1.torontocast.com:1165/stream
 4|Radio MBOX|http://panel.radiombox.pl/radio/8040/GoldHits320kbps
 5|Radio Mirage|http://s0.radiohost.pl:9569/;
 6|Radio 90|https://srv0.streamradiowy.eu/radio90
@@ -95,5 +95,4 @@
 95|1000 ELECTRONIC DANCE MUSIC|http://1000-electronic-dance-music.stream.laut.fm/1000-electronic-dance-music?t302=2025-06-01_17-40-16&uuid=794926c7-17a9-4bb5-929b-2a5197bc052c
 96|Electronica Vibes - Pirate Radio GR|http://live.piratefm.net/electronica_vibes
 97|RMI - Euro Disco|http://cast1.torontocast.com:1335/stream
-98|RMI-Italo Disco Classic|http://cast1.torontocast.com:1165/stream
 99|RMI - Italo Disco New Generation|http://cast1.torontocast.com:1315/stream
