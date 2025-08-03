@@ -93,7 +93,7 @@
 93|CYBERStacja|http://sc.cyberstacja.pl:8000/radio.mp3
 94|TOP 100 DJ CHARTS|http://rautemusik.stream25.radiohost.de/breakz?ref=radiobrowser-top100-djcharts&upd-meta=0&upd-scheme=https&_art=dD0xNzQ4Nzk4NjQxJmQ9OGJiY2U2NjI5OGZkZmJlNDg0OTc
 95|1000 ELECTRONIC DANCE MUSIC|http://1000-electronic-dance-music.stream.laut.fm/1000-electronic-dance-music?t302=2025-06-01_17-40-16&uuid=794926c7-17a9-4bb5-929b-2a5197bc052c
-96|Electronica Vibes - Pirate Radio GR|https://live.piratefm.net/electronica_vibes
+96|Electronica Vibes - Pirate Radio GR|http://live.piratefm.net/electronica_vibes
 97|RMI - Euro Disco|http://cast1.torontocast.com:1335/stream
 98|RMI-Italo Disco Classic|http://cast1.torontocast.com:1165/stream
 99|RMI - Italo Disco New Generation|http://cast1.torontocast.com:1315/stream
