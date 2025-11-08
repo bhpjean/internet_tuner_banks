@@ -50,8 +50,8 @@
 50|RMF Lady Pank            |http://195.150.20.242:8000/rmf_lady_pank
 51|RMF Latino               |http://195.150.20.242:8000/rmf_latino
 52|RMF Love                 |http://195.150.20.242:8000/rmf_love
-53|RMF Maxx                 |http://195.150.20.242:8000/rmf_maxxx
-54|RMF Maxx Hop-Bęc         |http://195.150.20.242:8000/rmf_hop_bec
+53|RMF MAXX                 |http://195.150.20.242:8000/rmf_maxxx
+54|RMF MAXX Hop-Bęc         |http://195.150.20.242:8000/rmf_hop_bec
 55|RMF Michael Jackson      |http://195.150.20.242:8000/rmf_Michael_Jackson
 56|RMF Muzyka Filmowa       |http://195.150.20.242:8000/rmf_muzyka_filmowa
 57|RMF Muzyka Klasyczna     |http://195.150.20.242:8000/rmf_muzyka_klasyczna
@@ -93,4 +93,5 @@
 93|RMF Wakacyjne Top 100    |http://195.150.20.242:8000/rmf_top4
 94|Radio Gra - Toruń        |http://195.150.20.242:8000/radio_gra
 95|Radio Gra - Wroclaw      |http://195.150.20.242:8000/radio_gra_wroc
+
 
