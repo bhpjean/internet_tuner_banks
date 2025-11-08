@@ -1,6 +1,6 @@
-﻿01|Polskie Radio Jedynka|http://mp3.polskieradio.pl:8900/
-02|Polskie Radio Dwojka|http://mp3.polskieradio.pl:8902/
-03|Polskie Radio Trojka|http://mp3.polskieradio.pl:8904/;.mp3
+﻿01|Polskie Radio Jedynka|http://stream3.polskieradio.pl:8950/;.mp3
+02|Polskie Radio Dwojka|http://stream3.polskieradio.pl:8952/;.mp3
+03|Polskie Radio Trojka|https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
 04|Polskie Radio Czworka|http://stream3.polskieradio.pl:8956
 05|Polskie Radio Chopin|http://stream3.polskieradio.pl:8960
 06|Polskie Radio Dzieciom|http://stream3.polskieradio.pl:8966
@@ -69,3 +69,4 @@
 69|Rainwave All|http://allrelays.rainwave.cc/all.mp3
 70|Radio PARALAX|http://radio-paralax.de:8000/;
 71|Kaaos Radio|https://stream.kaaosradio.fi:8001/chip
+
