@@ -7,7 +7,7 @@
 7|GAY FM|http://icepool.silvacast.com/GAYFM.mp3
 8|Laserbeat FM|http://stream.laut.fm/laserbeat-fm
 9|RMF FM|http://195.150.20.242:8000/rmf_fm
-10|RMF Maxxx|http://195.150.20.242:8000/rmf_maxxx
+10|RMF Maxx|http://195.150.20.242:8000/rmf_maxxx
 11|RMF 24|http://195.150.20.242:8000/rmf_24
 12|Radio 357|https://stream.rcs.revma.com/an1ugyygzk8uv
 13|Radio Nowy Swiat|http://stream.rcs.revma.com/4md4m0a0fs8uv
