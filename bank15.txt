@@ -8,6 +8,7 @@
 8|TEST ZRK|http://jeansoft.zapto.org/download/test/zrk.mp3
 9|Demo Adam Smialek FLAC|http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.flac
 10|Demo Adam Smialek MP3|http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.mp3
+10|Kid Francescoli|http://jeansoft.zapto.org/download/test/Kid Francescoli.wav
 11|AACPLUS|http://online.rockarsenal.ru:8000/rockarsenal_aacplus
 12|Testton_1.0.mp3|http://jeansoft.zapto.org/download/test/Testton_1.0.mp3
 13|Soma FM - BAGeL Radio|http://ice1.somafm.com/bagel-128-aac
