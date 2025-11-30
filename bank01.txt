@@ -85,7 +85,7 @@
 85|FluxFM - 80s|http://streams.fluxfm.de/80er/mp3-320/streams.fluxfm.de/
 86|Radio LEM FM|http://n13.radiojar.com/2fa0gbhr9bhvv
 87|Radio MRS|http://145.239.26.146:7494/;
-88|Laser Hot Hits Dance|http://e13484.cloudrad.io:8000/laserdancehq
+88|Radio Zlote Przeboje|https://radiostream.pl/tuba8912-1.mp3
 89|Radio DiscoParty.pl|http://145.239.26.146:7432/;
 90|Radio Bemowo|http://s26.myradiostream.com:21040/stream
 91|Intense Radio - We love Dance|http://intenseradio.live-streams.nl:8000/main
