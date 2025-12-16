@@ -1,4 +1,4 @@
-1|Radio Dzwiek|http://stream320.radiodzwiek.pl/
+1|Adroit Jazz|https://icecast.walmradio.com:8443/jazz_opus
 2|Radioparadise|http://stream.radioparadise.com/flac
 3|World Eclectic Mix|http://stream.radioparadise.com/eclectic-flac
 4|Rock Mix|http://stream.radioparadise.com/rock-flac
