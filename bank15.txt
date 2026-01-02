@@ -10,8 +10,7 @@
 10|Demo Adam Smialek MP3|http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.mp3
 10|Kid Francescoli|http://jeansoft.zapto.org/download/test/Kid Francescoli.wav
 11|AACPLUS|http://online.rockarsenal.ru:8000/rockarsenal_aacplus
-12|Testton_1.0.mp3|http://jeansoft.zapto.org/download/test/Testton_1.0.mp3
-13|Soma FM - BAGeL Radio|http://ice1.somafm.com/bagel-128-aac
+12|TEST TON_1.0.mp3|http://jeansoft.zapto.org/download/test/Testton_1.0.mp3
 14|Soma FM - Beat Blender|http://ice1.somafm.com/beatblender-128-aac
 15|Soma FM - Black Rock FM|http://ice1.somafm.com/brfm-128-aac
 16|Soma FM - Boot Liquor|http://ice1.somafm.com/bootliquor-128-aac
