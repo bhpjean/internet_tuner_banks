@@ -1,5 +1,5 @@
-01| Muzyczna Przystań|http://s1.slotex.pl:7686
-02| Muzyczny Zakątek|https://s3.slotex.pl/shoutcast/7336/stream
+01| Muzyczna Przystan|http://s1.slotex.pl:7686
+02| Muzyczny Zakatek|https://s3.slotex.pl/shoutcast/7336/stream
 03| Muzykomaniacy|http://4stream.pl:18284
 04|Radio Nadaje-Chillout|http://panel.nadaje.com:9004
 05|Radio Naklo|http://sluchaj.107i5.fm
@@ -94,4 +94,5 @@
 94|Radio WARTA FM|http://s1.slotex.pl:7446
 95|Radio Wyczes|https://s3.slotex.pl/shoutcast/7316/stream
 96|Radio Z Qlturą|https://radiozqlturapl.radioca.st/stream
+
 97|Radio Ziemi Wielunskiej|http://stream2.nadaje.com:8022
