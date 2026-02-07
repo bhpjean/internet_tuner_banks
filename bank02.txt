@@ -80,18 +80,19 @@
 80|RMF Styl                 |http://195.150.20.242:8000/rmf_styl
 81|RMF Szanty               |http://195.150.20.242:8000/rmf_szanty
 82|RMF Swiateczne Nowosci   |http://195.150.20.242:8000/rmf_top5
-83|RMF swięta               |http://195.150.20.242:8000/rmf_swieta
+83|RMF swieta               |http://195.150.20.242:8000/rmf_swieta
 84|RMF Teen                 |http://195.150.20.242:8000/rmf_groove
 85|RMF Top 30 Dance         |http://195.150.20.242:8000/rmf_top_5_dance
 86|RMF Top 30 Disco Polo    |http://195.150.20.242:8000/rmf_top_5_rnb
 87|RMF Top 30 PL            |http://195.150.20.242:8000/rmf_top_5_pl
 88|RMF Top 30 Pop           |http://195.150.20.242:8000/rmf_top_5_pop
-89|RMF Top 30 swięta        |http://195.150.20.242:8000/rmf_top_30_swieta
+89|RMF Top 30 swieta        |http://195.150.20.242:8000/rmf_top_30_swieta
 90|RMF Top 2021 Disco polo  |http://195.150.20.242:8000/rmf_top2
 91|RMF Trend Sounds         |http://195.150.20.242:8000/rmf_trend_sounds
 92|RMF W Pracy              |http://195.150.20.242:8000/rmf_w_pracy
 93|RMF Wakacyjne Top 100    |http://195.150.20.242:8000/rmf_top4
-94|Radio Gra - Toruń        |http://195.150.20.242:8000/radio_gra
+94|Radio Gra - Torun        |http://195.150.20.242:8000/radio_gra
 95|Radio Gra - Wroclaw      |http://195.150.20.242:8000/radio_gra_wroc
+
 
 
