@@ -94,5 +94,4 @@
 94|Radio WARTA FM|http://s1.slotex.pl:7446
 95|Radio Wyczes|https://s3.slotex.pl/shoutcast/7316/stream
 96|Radio Z Qlturą|https://radiozqlturapl.radioca.st/stream
-
 97|Radio Ziemi Wielunskiej|http://stream2.nadaje.com:8022
