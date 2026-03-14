@@ -1,99 +1,29 @@
-001|OPEN FM Radio Złote Przeboje|https://getradio.reconv.pl/openfm?s=radio-zlote-przeboje
-002|OPEN FM Piosenki dla dzieci|https://getradio.reconv.pl/openfm?s=piosenki-dla-dzieci
-003|OPEN FM 500 Alternative Hits|https://getradio.reconv.pl/openfm?s=500-alternative-hits
-004|OPEN FM Radio Kampus|https://getradio.reconv.pl/openfm?s=radio-kampus
-005|OPEN FM Disco Polo|https://getradio.reconv.pl/openfm?s=disco-polo
-006|OPEN FM Chillout|https://getradio.reconv.pl/openfm?s=chillout
-007|OPEN FM Top Wszech Czasow - Rock PL|https://getradio.reconv.pl/openfm?s=top-wszech-czasow-rock-pl
-008|OPEN FM Radiowe Hity|https://getradio.reconv.pl/openfm?s=radiowe-hity
-009|OPEN FM Bajki|https://getradio.reconv.pl/openfm?s=bajki
-010|OPEN FM Odgłosy Natury|https://getradio.reconv.pl/openfm?s=odglosy-natury
-011|OPEN FM Polskie Ballady|https://getradio.reconv.pl/openfm?s=polskie-ballady
-012|OPEN FM Italo Disco|https://getradio.reconv.pl/openfm?s=italo-disco
-013|OPEN FM Love|https://getradio.reconv.pl/openfm?s=love
-014|OPEN FM Radio 357|https://getradio.reconv.pl/openfm?s=radio-357
-015|OPEN FM Polskie Reggae|https://getradio.reconv.pl/openfm?s=polskie-reggae
-016|OPEN FM Top Wszech Czasów - Rock|https://getradio.reconv.pl/openfm?s=top-wszech-czasow-rock
-017|OPEN FM 500 Electronic Hits|https://getradio.reconv.pl/openfm?s=500-electronic-hits
-018|OPEN FM 80s & 90s|https://getradio.reconv.pl/openfm?s=80s-90s-hits
-019|OPEN FM We Dwoje|https://getradio.reconv.pl/openfm?s=we-dwoje
-020|OPEN FM Wesele|https://getradio.reconv.pl/openfm?s=wesele
-021|OPEN FM Beats & Bass|https://getradio.reconv.pl/openfm?s=beats-bass
-022|OPEN FM Classic Party|https://getradio.reconv.pl/openfm?s=classic-party
-023|OPEN FM Czwórka|https://getradio.reconv.pl/openfm?s=czworka-polskie-radio
-024|OPEN FM Po Polsku 80s|https://getradio.reconv.pl/openfm?s=po-polsku-80
-025|OPEN FM Radio Fest|https://getradio.reconv.pl/openfm?s=radio-fest
-026|OPEN FM Latino Hits|https://getradio.reconv.pl/openfm?s=latino-hits
-027|OPEN FM Praca|https://getradio.reconv.pl/openfm?s=praca
-028|OPEN FM Kraina Łagodności|https://getradio.reconv.pl/openfm?s=kraina-lagodnosci
-029|OPEN FM Ciężkie Brzmienia|https://getradio.reconv.pl/openfm?s=ciezkie-brzmienia
-030|OPEN FM RMF24|https://getradio.reconv.pl/openfm?s=rmf24
-031|OPEN FM Smutno...|https://getradio.reconv.pl/openfm?s=smutne-piosenki
-032|OPEN FM Dobry Wieczór|https://getradio.reconv.pl/openfm?s=dobry-wieczor
-033|OPEN FM Koncentracja|https://getradio.reconv.pl/openfm?s=koncentracja
-034|OPEN FM 500 Reggae Hits|https://getradio.reconv.pl/openfm?s=500-reggae-hits
-035|OPEN FM No Pain No Gain|https://getradio.reconv.pl/openfm?s=fitness
-036|OPEN FM Hity lat 70 80 90|https://getradio.reconv.pl/openfm?s=hity-lat-70-80-90
-037|OPEN FM Muzyka Do Snu|https://getradio.reconv.pl/openfm?s=muzyka-do-snu
-038|OPEN FM RMF Classic|https://getradio.reconv.pl/openfm?s=rmf-classic
-039|OPEN FM Antyradio|https://getradio.reconv.pl/openfm?s=antyradio
-040|OPEN FM Radio Tok FM|https://getradio.reconv.pl/openfm?s=radio-tok-fm
-041|OPEN FM Drum'n'Bass|https://getradio.reconv.pl/openfm?s=drumnbass
-042|OPEN FM Słońce!|https://getradio.reconv.pl/openfm?s=slonce
-043|OPEN FM Chillizet|https://getradio.reconv.pl/openfm?s=chillizet
-044|OPEN FM Po Polsku 80s & 90s|https://getradio.reconv.pl/openfm?s=po-polsku-80s-90s
-045|OPEN FM Happy|https://getradio.reconv.pl/openfm?s=happy
-046|OPEN FM Classic Rock|https://getradio.reconv.pl/openfm?s=classic-rock
-047|OPEN FM Giganci Rocka|https://getradio.reconv.pl/openfm?s=giganci-rocka
-048|OPEN FM Polska Rocks!|https://getradio.reconv.pl/openfm?s=polska-rocks
-049|OPEN FM Polski Rock Classic|https://getradio.reconv.pl/openfm?s=polski-rock-classic
-050|OPEN FM Praca Chill|https://getradio.reconv.pl/openfm?s=praca-chill
-051|OPEN FM 90s Chill|https://getradio.reconv.pl/openfm?s=90s-chill
-052|OPEN FM 90s Rock|https://getradio.reconv.pl/openfm?s=90s-rock
-053|OPEN FM Hity Na Cały Dzień|https://getradio.reconv.pl/openfm?s=hity-na-caly-dzien
-054|OPEN FM Relaks|https://getradio.reconv.pl/openfm?s=relaks
-055|OPEN FM Retro Cafe|https://getradio.reconv.pl/openfm?s=retro-cafe
-056|OPEN FM Ladies Cafe|https://getradio.reconv.pl/openfm?s=ladies-cafe
-057|OPEN FM Muzyka Filmowa|https://getradio.reconv.pl/openfm?s=muzyka-filmowa
-058|OPEN FM Hip-Hop Motywacyjny|https://getradio.reconv.pl/openfm?s=muzyka-motywacyjna
-059|OPEN FM Alt Freszzz|https://getradio.reconv.pl/openfm?s=alt-freszzz
-060|OPEN FM Do Auta Club|https://getradio.reconv.pl/openfm?s=do-auta-club
-061|OPEN FM Polskie Radio Kierowców|https://getradio.reconv.pl/openfm?s=polskie-radio-kierowcow
-062|OPEN FM Praca Rock|https://getradio.reconv.pl/openfm?s=praca-rock
-063|OPEN FM Kocyk (Hygge)|https://getradio.reconv.pl/openfm?s=hygge
-064|OPEN FM Joga|https://getradio.reconv.pl/openfm?s=joga
-065|OPEN FM Cardio|https://getradio.reconv.pl/openfm?s=cardio
-066|OPEN FM Alt Club|https://getradio.reconv.pl/openfm?s=alt-club
-067|OPEN FM American Rock|https://getradio.reconv.pl/openfm?s=american-rock
-068|OPEN FM 500 R'n'B Hits|https://getradio.reconv.pl/openfm?s=500-rnb-hits
-069|OPEN FM 80s Chill|https://getradio.reconv.pl/openfm?s=80s-chill
-070|OPEN FM Meloradio|https://getradio.reconv.pl/openfm?s=meloradio
-071|OPEN FM Polish Radio London|https://getradio.reconv.pl/openfm?s=polish-radio-london
-072|OPEN FM Radio Akadera|https://getradio.reconv.pl/openfm?s=radio-akadera
-073|OPEN FM Smooth Jazz|https://getradio.reconv.pl/openfm?s=smooth-jazz
-074|OPEN FM Rocks!|https://getradio.reconv.pl/openfm?s=rocks
-075|OPEN FM 500 Rock Hits|https://getradio.reconv.pl/openfm?s=500-rock-hits
-076|OPEN FM Chill Na Cały Dzień|https://getradio.reconv.pl/openfm?s=chill-na-caly-dzien
-077|OPEN FM Polskie Na Cały Dzień|https://getradio.reconv.pl/openfm?s=polskie-na-caly-dzien
-078|OPEN FM Crema Cafe|https://getradio.reconv.pl/openfm?s=crema-cafe
-079|OPEN FM Praca Jazz|https://getradio.reconv.pl/openfm?s=jazz
-080|OPEN FM Alt Classic|https://getradio.reconv.pl/openfm?s=alt-classic
-081|OPEN FM Alt Cafe|https://getradio.reconv.pl/openfm?s=alt-cafe
-082|OPEN FM 500 Heavy Hits|https://getradio.reconv.pl/openfm?s=500-heavy-hits
-083|OPEN FM Soul & R'n'B Cafe|https://getradio.reconv.pl/openfm?s=sexy-soul-rnb
-084|OPEN FM Radio Pogoda|https://getradio.reconv.pl/openfm?s=radio-pogoda
-085|OPEN FM Radio Afera|https://getradio.reconv.pl/openfm?s=radio-afera
-086|OPEN FM Relaks Przy Klasyce|https://getradio.reconv.pl/openfm?s=muzyka-klasyczna
-087|OPEN FM Bieganie|https://getradio.reconv.pl/openfm?s=bieganie
-088|OPEN FM Pozytywki|https://getradio.reconv.pl/openfm?s=pozytywki
-089|OPEN FM Alt PL|https://getradio.reconv.pl/openfm?s=alt-pl
-090|OPEN FM Punk Rock|https://getradio.reconv.pl/openfm?s=punk-rock
-091|OPEN FM Classic Metal|https://getradio.reconv.pl/openfm?s=classic-metal
-092|OPEN FM Do Auta Rock|https://getradio.reconv.pl/openfm?s=do-auta-rock
-093|OPEN FM Rock Ballady|https://getradio.reconv.pl/openfm?s=rock-ballady
-094|OPEN FM Radio Chopin|https://getradio.reconv.pl/openfm?s=radio-chopin
-095|OPEN FM Dzień Dobry!|https://getradio.reconv.pl/openfm?s=dzien-dobry
-096|OPEN FM Rock Radio|https://getradio.reconv.pl/openfm?s=rock-radio
-097|OPEN FM Radio Kolor|https://getradio.reconv.pl/openfm?s=radio-kolor
-098|OPEN FM Radio Rockserwis FM|https://getradio.reconv.pl/openfm?s=radio-rockserwis-fm
-099|OPEN FM Akademickie Radio Luz|https://getradio.reconv.pl/openfm?s=akademickie-radio-luz
+14|Soma FM - Beat Blender|http://ice1.somafm.com/beatblender-128-aac
+15|Soma FM - Black Rock FM|http://ice1.somafm.com/brfm-128-aac
+16|Soma FM - Boot Liquor|http://ice1.somafm.com/bootliquor-128-aac
+17|Soma FM - cliqhop idm|http://ice1.somafm.com/cliqhop-128-aac
+18|Soma FM - Covers|http://ice1.somafm.com/covers-128-mp3
+19|Soma FM - Deep Space One|http://ice1.somafm.com/deepspaceone-128-aac
+20|Soma FM - DEF CON Radio|http://ice1.somafm.com/defcon-128-aac
+21|Soma FM - Digitalis|http://ice1.somafm.com/digitalis-128-aac
+22|Soma FM - Drone Zone|http://ice1.somafm.com/dronezone-128-aac
+23|Soma FM - Dub Step Beyond|http://ice1.somafm.com/dubstep-128-aac
+24|Soma FM - Fluid|http://ice1.somafm.com/fluid-128-aac
+25|Soma FM - Folk Forward|http://ice1.somafm.com/folkfwd-128-aac
+26|Soma FM - Groove Salad|http://ice1.somafm.com/groovesalad-128-aac
+27|Soma FM - Groove Salad Classic|http://ice2.somafm.com/gsclassic-128-aac
+28|Soma FM - Heavyweight Reggae|http://ice4.somafm.com/reggae-128-aac
+29|Soma FM - Illinois Street Lounge|http://ice1.somafm.com/illstreet-128-aac
+30|Soma FM - Indie Pop Rocks!|http://ice1.somafm.com/indiepop-128-aac
+31|Soma FM - Left Coast 70s|http://ice1.somafm.com/seventies-128-aac
+32|Soma FM - Live|http://ice1.somafm.com/live-128-aac
+33|Soma FM - Lush|http://ice1.somafm.com/lush-128-aac
+34|Soma FM - Metal Detector|http://ice1.somafm.com/metal-128-aac
+35|Soma FM - Mission Control|http://ice1.somafm.com/missioncontrol-128-aac
+36|Soma FM - PopTron|http://ice1.somafm.com/poptron-128-aac
+37|Soma FM - Secret Agent|http://ice1.somafm.com/secretagent-128-aac
+38|Soma FM - Seven Inch Soul|http://ice1.somafm.com/7soul-128-aac
+39|Soma FM - SF 10-33|http://ice1.somafm.com/sf1033-128-aac
+40|Soma FM - Sonic Universe|http://ice1.somafm.com/sonicuniverse-128-aac
+41|Soma FM - Space Station Soma|http://ice1.somafm.com/spacestation-128-aac
+42|Soma FM - Suburbs of Goa|http://ice1.somafm.com/suburbsofgoa-128-aac
