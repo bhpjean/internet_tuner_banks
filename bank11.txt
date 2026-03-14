@@ -1,11 +1,3 @@
-000|OPEN FM Radio Centrum (Lublin)|https://getradio.reconv.pl/openfm?s=radio-centrum-lublin
-001|OPEN FM Polski Rock|https://getradio.reconv.pl/openfm?s=polski-rock
-002|OPEN FM Polskie Radio Dzieciom|https://getradio.reconv.pl/openfm?s=polskie-radio-dzieciom
-003|OPEN FM Szum|https://getradio.reconv.pl/openfm?s=szum-do-snu
-004|OPEN FM Spokojne Hity|https://getradio.reconv.pl/openfm?s=spokojne-hity
-005|OPEN FM Polskie Radio dla Zagranicy|https://getradio.reconv.pl/openfm?s=polskie-radio-dla-zagranicy
-006|OPEN FM Polskie Radio dla Ukrainy|https://getradio.reconv.pl/openfm?s=polskie-radio-dla-ukrainy
-007|OPEN FM Piano Chill|https://getradio.reconv.pl/openfm?s=piano-chill
 008|The Zone - Dublin|http://uk1.internet-radio.com:8355/
 009|Radio Pirata TGR|http://us1.internet-radio.com:8140/live
 010|Classic Rock Florida|http://144.217.158.59:5000/stream
