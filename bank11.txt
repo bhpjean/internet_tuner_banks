@@ -68,7 +68,7 @@
 075|SECTOR Space|http://89.223.45.5:8000/space-mp3
 076|SECTOR Geny|http://89.223.45.5:8000/geny-mp3
 077|SECTOR Next|http://89.223.45.5:8000/next-mp3
-078|MAXIMA  FM|http://178.32.146.184:2088/stream
+078|MAXIMA  FM|https://en-directo.frequence-radio.com/amp/redirect.php?radio=maxima-fm
 079|Magic FM Club 80|http://158.69.114.190:8014/stream
 080|VIBE - AMBIENT|http://94.130.242.5:8056/stream
 081|VIBE - DRUM&BASS|http://94.130.242.5:8004/stream
