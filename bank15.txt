@@ -4,10 +4,11 @@
 4|Rock Mix|http://stream.radioparadise.com/rock-flac
 5|Mellow Mix|http://stream.radioparadise.com/mellow-flac
 6|TEST LUBARTOW|http://jeansoft.zapto.org/download/test/lubartow.mp3
-7|LUBARTOW|http://jeansoft.zapto.org/download/test/lubartow_2.flac
-8|TEST ZRK|http://jeansoft.zapto.org/download/test/zrk.mp3
-9|Demo Adam Smialek FLAC|http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.flac
-10|Demo Adam Smialek MP3|http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.mp3
-10|Kid Francescoli|http://jeansoft.zapto.org/download/test/Kid Francescoli.wav
-11|AACPLUS|http://online.rockarsenal.ru:8000/rockarsenal_aacplus
-12|TEST TON_1.0.mp3|http://jeansoft.zapto.org/download/test/Testton_1.0.mp3
+7|Kaseta Diora|http://jeansoft.zapto.org/download/test/kaseta_demonstracyjna_diora.mp3
+8|LUBARTOW|http://jeansoft.zapto.org/download/test/lubartow_2.flac
+9|TEST ZRK|http://jeansoft.zapto.org/download/test/zrk.mp3
+10|Demo Adam Smialek FLAC|http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.flac
+11|Demo Adam Smialek MP3|http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.mp3
+12|Kid Francescoli|http://jeansoft.zapto.org/download/test/Kid Francescoli.wav
+13|AACPLUS|http://online.rockarsenal.ru:8000/rockarsenal_aacplus
+14|TEST TON_1.0.mp3|http://jeansoft.zapto.org/download/test/Testton_1.0.mp3
