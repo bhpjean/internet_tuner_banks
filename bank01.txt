@@ -28,7 +28,7 @@
 28|MeloRadio|http://www.emsoft.ct8.pl/inne/melo.m3u
 29|Radio Lublin|http://www.emsoft.ct8.pl/inne/rlublin.m3u
 30|Radio Freee|http://www.emsoft.ct8.pl/inne/freee.m3u
-31|Radio Opole|http://dab.radio.opole.pl:8070/1.m3u
+31|Radio Bieszczady|https://stream3.nadaje.com:8951/radiobieszczady
 32|Radio Olsztyn|http://213.73.25.178:7055/listen.pls
 33|Radio PiK|http://stream.radiopik.pl:9004/;.m3u
 34|Radio Szczecin|http://stream4.nadaje.com:11986/prs.m3u
