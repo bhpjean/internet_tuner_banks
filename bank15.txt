@@ -3,6 +3,7 @@
 3|World Eclectic Mix|http://stream.radioparadise.com/eclectic-flac
 4|Rock Mix|http://stream.radioparadise.com/rock-flac
 5|Mellow Mix|http://stream.radioparadise.com/mellow-flac
+6|Test Stereo|http://jeansoft.zapto.org/download/test/test_stereo.mp3
 6|TEST LUBARTOW|http://jeansoft.zapto.org/download/test/lubartow.mp3
 7|Kaseta Diora|http://jeansoft.zapto.org/download/test/kaseta_demonstracyjna_diora.mp3
 8|LUBARTOW|http://jeansoft.zapto.org/download/test/lubartow_2.flac
