@@ -1,10 +1,10 @@
 001|Italo 4 You|http://s0.radiohost.pl:8018/stream
 002|Top 80|https://top80.pl:8000/listen.mp3
-003|Italo Disco Classic|https://ams-pioneer02.dedicateware.com:2485/stream
-004|Italo Disco New Generation|https://ams-pioneer02.dedicateware.com:2545/stream
-005|Euro Disco|https://ams-pioneer02.dedicateware.com:2655/stream
-006|In The Mix|https://ams-pioneer02.dedicateware.com:2765/stream
-007|SpaceSynth|https://ams-pioneer02.dedicateware.com:2785/stream
+003|RMI - Italo Disco Classic|https://ams-pioneer02.dedicateware.com:2485/stream
+004|RMI - Italo Disco New Generation|https://ams-pioneer02.dedicateware.com:2545/stream
+005|RMI - Euro Disco|https://ams-pioneer02.dedicateware.com:2655/stream
+006|RMI - In The Mix|https://ams-pioneer02.dedicateware.com:2765/stream
+007|RMI - SpaceSynth|https://ams-pioneer02.dedicateware.com:2785/stream
 008|Radio MBOX|http://panel.radiombox.pl/radio/8040/GoldHits320kbps
 009|Radio Mirage|http://s0.radiohost.pl:9569/;
 010|Radio 90|https://srv0.streamradiowy.eu/radio90
