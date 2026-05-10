@@ -12,7 +12,7 @@
 11|Demo Adam Smialek MP3|http://jeansoft.zapto.org/download/test/Kaseta_Demonstracyjna_Adam_Smialek.mp3
 12|Kid Francescoli|http://jeansoft.zapto.org/download/test/Kid Francescoli.wav
 13|AACPLUS|http://online.rockarsenal.ru:8000/rockarsenal_aacplus
-http://jeansoft.zapto.org/download/test/Testton_1.0.mp3
-16|TEST 18khz|http://jeansoft.zapto.org/download/test/18khz.wav
-17|TEST 20Hz_20kHz|http://jeansoft.zapto.org/download/test/20Hz_20kHz.wav
-18|TEST 14khz|http://jeansoft.zapto.org/download/test/14khz.mp3
+14|TEST TON_1.0.mp3|http://jeansoft.zapto.org/download/test/Testton_1.0.mp3
+15|TEST 18khz|http://jeansoft.zapto.org/download/test/18khz.wav
+16|TEST 20Hz_20kHz|http://jeansoft.zapto.org/download/test/20Hz_20kHz.wav
+17|TEST 14khz|http://jeansoft.zapto.org/download/test/14khz.mp3
