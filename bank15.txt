@@ -15,4 +15,4 @@
 14|TEST TON_1.0.mp3|http://jeansoft.zapto.org/download/test/Testton_1.0.mp3
 15|TEST 18khz|http://jeansoft.zapto.org/download/test/18khz.wav
 16|TEST 20Hz_20kHz|http://jeansoft.zapto.org/download/test/20Hz_20kHz.wav
-17|TEST 14khz|http://jeansoft.zapto.org/download/test/14khz.mp3
+17|TEST 14khz|http://jeansoft.zapto.org/download/test/14kHz.mp3
