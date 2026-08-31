@@ -40,7 +40,7 @@
 040|Radio RAM|http://stream4.nadaje.com:9220/ram.m3u
 041|Muzyczne Radio|https://stream.rcs.revma.com/gzwc1xcq042vv
 042|Trendy Radio|http://stream.trendyradio.pl:8000/h.m3u
-043|Twoja Polska Stacja|http://sluchaj.twojapolskastacja.pl:8068/listen.pls
+043|Twoja Polska Stacja|https://sluchaj2.radiopark.biz.pl:8443/tpsapp
 044|Radio Muzo FM|http://stream.rcs.revma.com/1nnezw8qz7zuv.m3u
 045|Radio Rzeszow|http://streaming.g-news.pl:8040/rzeszow
 046|Radio Alex|http://proxima.shoutca.st:9045/stream
