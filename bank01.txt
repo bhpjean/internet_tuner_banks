@@ -66,7 +66,7 @@
 066|Radio Fama|http://stream2.nadaje.com:8076/;
 067|Radio Kolobrzeg|http://194.24.244.11:8000/;
 068|Konin FM|http://stream2.technologicznie.net:80/konin.fm
-069|Radio Koszalin|http://91.232.4.33:9680/stream
+069|Eska 2|http://ic1.smcdn.pl/1240-1.mp3
 070|Off Radio Krakow|http://stream4.nadaje.com:13332/offradiokrakow
 071|Radio Q|http://79.188.161.82:8020/;stream.mp3
 072|Radio Yanosik|https://n20a-eu.rcs.revma.com/7vhveccrnquvv
