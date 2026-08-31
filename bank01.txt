@@ -82,7 +82,7 @@
 082|J C S  R A D I O|http://jeansoft.zapto.org:8000
 083|Radio Energy 2000|http://energy2000.radioparty.pl:8005/
 084|SLAY RADIO|http://relay1.slayradio.org:8300/
-085|Radio ChilliZet|http://www.emsoft.ct8.pl/inne/chilli.m3u
+085|Radio ChilliZet|https://ch.cdn.eurozet.pl/chi-net.mp3
 086|Radio RAM Wroclaw|http://stream4.nadaje.com:9220/ram.m3u
 087|Phever Media Live|http://uk1.internet-radio.com:8200/live
 088|Move Da House|http://uk7.internet-radio.com:8000/
