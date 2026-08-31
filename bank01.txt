@@ -27,9 +27,9 @@
 027|Radio Pasja Klubowa|http://91.232.4.33:9460/stream2
 028|Radio Pasja Dance|http://91.232.4.33:9466/stream2
 029|Radio Krakow|http://stream4.nadaje.com:9680/radiokrakow-s3.m3u
-030|ChilliZet|http://www.emsoft.ct8.pl/inne/chilli.m3u
-031|AntyRadio|http://www.emsoft.ct8.pl/inne/anty.m3u
-032|MeloRadio|http://www.emsoft.ct8.pl/inne/melo.m3u
+030|ChilliZet|https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01
+031|AntyRadio|https://an02.cdn.eurozet.pl/ant-web.mp3
+032|MeloRadio|https://ml03.cdn.eurozet.pl/mel-klc.mp3
 033|Radio Lublin|http://www.emsoft.ct8.pl/inne/rlublin.m3u
 034|Radio Freee|http://www.emsoft.ct8.pl/inne/freee.m3u
 035|Radio Bieszczady|https://stream3.nadaje.com:8951/radiobieszczady
