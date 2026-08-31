@@ -54,7 +54,7 @@
 054|Radio Jura|http://streams2.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
 055|Bayer FM|https://streaming.radio5.com.pl:8888/bayerfm
 056|Radio Gdansk|http://stream.task.gda.pl:8000/rg1
-057|Radio Kaszebe|http://stream2.nadaje.com:8060/;
+057|Radio Kaszebe|http://x.radiokaszebe.pl:9000/
 058|Radio Imperium|https://stream.radioimperium.pl:8443/stream
 059|Elka Glogow|http://live.elka.pl:8000/miedziowe.pl
 060|Radio Gniezno|http://stream3.nadaje.com:8012/;
