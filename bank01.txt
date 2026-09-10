@@ -13,7 +13,7 @@
 013|RMF FM|http://195.150.20.242:8000/rmf_fm
 014|RMF MAXX|http://195.150.20.242:8000/rmf_maxxx
 015|RMF 24|http://195.150.20.242:8000/rmf_24
-016|Radio 357|https://stream.rcs.revma.com/an1ugyygzk8uv
+016|Radio 357|https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0
 017|Radio Nowy Swiat|http://stream.rcs.revma.com/4md4m0a0fs8uv
 018|Radio ZET|http://www.emsoft.ct8.pl/inne/zet.m3u
 019|Radio ESKA|http://ic1.smcdn.pl/2380-1.mp3
