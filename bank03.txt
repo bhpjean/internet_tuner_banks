@@ -1,4 +1,4 @@
-﻿01|RadioZet                |https://zt.cdn.eurozet.pl/zet-net.mp3
+﻿01|RadioZet                |http://www.emsoft.ct8.pl/inne/zet.m3u
 02|ZET 80                  |https://zt.cdn.eurozet.pl/ZET080.mp3 
 03|ZET 90                  |https://zt.cdn.eurozet.pl/ZET090.mp3 
 04|ZET 2000                |https://zt.cdn.eurozet.pl/ZET200.mp3 
