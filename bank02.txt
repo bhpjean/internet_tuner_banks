@@ -1,9 +1,9 @@
 ﻿01|RMF FM                  |http://195.150.20.242:8000/rmf_fm
-02|RMF 2 Pop               |http://195.150.20.242:8000/rmf_2
-03|RMF 3 Pop-Rock          |http://195.150.20.242:8000/rmf_3
+02|RMF MAXX                 |http://195.150.20.242:8000/rmf_maxxx
+03|RMF 24.pl               |http://195.150.20.242:8000/rmf_24
 04|RMF 4 Dance & RNB       |http://195.150.20.242:8000/rmf_4
 05|RMF 5 Lagodne Przeboje  |http://195.150.20.242:8000/rmf_5
-06|RMF 24.pl               |http://195.150.20.242:8000/rmf_24
+06|RMF 3 Pop-Rock          |http://195.150.20.242:8000/rmf_3
 07|RMF 30 lat              |http://195.150.20.242:8000/rmf_20lat
 08|RMF 10s                 |http://195.150.20.242:8000/rmf_2010
 09|RMF 50s                 |http://195.150.20.242:8000/rmf_50s
@@ -50,7 +50,7 @@
 50|RMF Lady Pank            |http://195.150.20.242:8000/rmf_lady_pank
 51|RMF Latino               |http://195.150.20.242:8000/rmf_latino
 52|RMF Love                 |http://195.150.20.242:8000/rmf_love
-53|RMF MAXX                 |http://195.150.20.242:8000/rmf_maxxx
+53|RMF 2 Pop               |http://195.150.20.242:8000/rmf_2
 54|RMF MAXX Hop-Bęc         |http://195.150.20.242:8000/rmf_hop_bec
 55|RMF Michael Jackson      |http://195.150.20.242:8000/rmf_Michael_Jackson
 56|RMF Muzyka Filmowa       |http://195.150.20.242:8000/rmf_muzyka_filmowa
