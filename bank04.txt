@@ -2,7 +2,7 @@
 02|Polskie Radio Dwojka|http://stream3.polskieradio.pl:8902/
 03|Polskie Radio Trojka|http://mp3.polskieradio.pl:8904/
 04|Polskie Radio Czworka|http://mp3.polskieradio.pl:8906/
-05|Polskie Radio Chopin|http://stream3.polskieradio.pl:8960
+05|Polskie Radio Chopin|http://mp3.polskieradio.pl:8910/
 06|Polskie Radio Dzieciom|http://stream3.polskieradio.pl:8966
 07|Polskie Radio Kierowcow|http://stream3.polskieradio.pl:8968
 43|Bad Rock Hard & Heavy|http://play-radio0.jump.bg:8049/live
