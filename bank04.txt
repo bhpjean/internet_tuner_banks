@@ -3,8 +3,8 @@
 03|Polskie Radio Trojka|http://mp3.polskieradio.pl:8904/
 04|Polskie Radio Czworka|http://mp3.polskieradio.pl:8906/
 05|Polskie Radio Chopin|http://mp3.polskieradio.pl:8910/
-06|Polskie Radio Dzieciom|http://stream3.polskieradio.pl:8966
-07|Polskie Radio Kierowcow|http://stream3.polskieradio.pl:8968
+06|Polskie Radio Dzieciom|http://mp3.polskieradio.pl:8916/
+07|Polskie Radio Kierowcow|http://mp3.polskieradio.pl:8918/
 43|Bad Rock Hard & Heavy|http://play-radio0.jump.bg:8049/live
 44|HARD RADIO CLASSICS|http://192.111.140.11:8516/stream
 45|Metal Live Radio|http://51.255.8.139:8738/stream
