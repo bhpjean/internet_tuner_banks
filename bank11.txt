@@ -24,7 +24,7 @@
 031|MonsterFM-Evergreens|http://evergreens.radiomonster.fm/320.mp3
 032|MonsterFM-Dance|http://dance.radiomonster.fm/320.mp3
 033|MonsterFM-Schlager|http://schlager.radiomonster.fm/320.mp3
-034|Dark Section Radio|http://cp.ultimate-stream-hosting.de:8010/stream
+034| All Euro 80's Radio|http://strm112.1.fm/80s_90s_mobile_mp3
 035|Radio Euro Disco|https://broadcast.miami/proxy/eurodisco?mp=/stream/;
 036|The Zone - Dublin|http://uk1.internet-radio.com:8355/
 037|Hi On Line Radio|http://mediaserv30.live-streams.nl:8086/stream
