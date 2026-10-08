@@ -25,7 +25,7 @@
 032|MonsterFM-Dance|http://dance.radiomonster.fm/320.mp3
 033|MonsterFM-Schlager|http://schlager.radiomonster.fm/320.mp3
 034|Dark Section Radio|http://cp.ultimate-stream-hosting.de:8010/stream
-035|Discofox FM|http://87.118.78.2:8000/main.mp3
+035|Radio Euro Disco|https://broadcast.miami/proxy/eurodisco?mp=/stream/;
 036|The Zone - Dublin|http://uk1.internet-radio.com:8355/
 037|Hi On Line Radio|http://mediaserv30.live-streams.nl:8086/stream
 038|Hi On Line Gold|http://mediaserv30.live-streams.nl:8000/stream
